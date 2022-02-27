@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% from "macros/pagination.html" import render_pagination %}
+{% block body %}
+<hr/>
+    {% for block in this.informacoes.blocks %}
+        {{ block }}   
+    {% endfor %}
+
+
+
+  {% for post in this.pagination.items %}
+    <p>
+      <a href="{{ post|url }}">{{ post.title }}</a> | publicado por {{ post.author }} em {{ post.pub_date|dateformat('dd/MM/YYYY') }}.
+    </p>
+  {% endfor %}
+
+  {% if this.pagination.pages > 1 %}
+    {{ render_pagination(this.pagination) }}
+{% endif %}
+
+{% endblock %}

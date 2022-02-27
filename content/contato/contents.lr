@@ -1,0 +1,24 @@
+_model: contato
+---
+title: Título
+---
+campos:
+
+#### input-text ####
+description: Nome completo
+----
+id: nome
+----
+placeholder: Fulano de Tal
+#### input-email ####
+description: E-mail
+----
+id: e-mail
+----
+placeholder: exemplo@gmail.com
+#### input-textarea ####
+description: Mensagem
+----
+id: mensagem
+----
+placeholder: Insira aqui a sua mensagem.

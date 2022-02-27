@@ -1,0 +1,25 @@
+<div class="mb-3 tamanho-md">
+    <label for="cep" class="form-label">CEP (apenas números)</label>
+    <input type="text" class="form-control" id="cep" name="cep" maxlength="9" onblur="pesquisaCEP(this.value);" pattern="^\d{8}$" required>
+</div>
+<div class="mb-3 ">
+    <label for="rua" class="form-label">Logradouro</label>
+    <input type="text" class="form-control" id="rua" name="rua" required readonly>
+</div>
+<div class="mb-3 ">
+    <label for="complemento" class="form-label">Número e complemento</label>
+    <input type="text" class="form-control" id="rua" name="complemento" required
+        placeholder="número 1001, apto 202 -- condomínio Bell viver">
+</div>
+<div class="mb-3 tamanho-md ">
+    <label for="bairro" class="form-label">Bairro</label>
+    <input type="text" class="form-control" id="bairro" name="bairro" required readonly>
+</div>
+<div class="mb-3 tamanho-md ">
+    <label for="cidade" class="form-label">Cidade</label>
+    <input type="text" class="form-control" id="cidade" name="cidade" required readonly>
+</div>
+<div class="mb-3 tamanho-md ">
+    <label for="uf" class="form-label">Estado</label>
+    <input type="text" class="form-control" id="uf" name="uf" required readonly>
+</div>

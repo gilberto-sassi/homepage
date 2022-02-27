@@ -1,0 +1,39 @@
+.membro {
+    width         : 100%;
+    display       : flex;
+    flex-direction: row;
+    flex-wrap     : wrap;
+    align-items : center;
+    margin-bottom : 15px;
+    margin-top: 15px;
+}
+
+.foto {
+    width: 10rem;
+}
+
+.membro-image {
+    width        : 80%;
+    border-radius: 15px;
+}
+
+.descricao {
+    width     : calc(100% - 10rem);
+    text-align: justify;
+}
+
+@media only screen and (max-width: 768px) {
+    .membro {
+        display : flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items : center;
+        margin-bottom : 15px;
+        margin-top: 15px;
+    }
+
+    .descricao {
+        width: 100%;
+        margin: 20px 0;
+    }
+}

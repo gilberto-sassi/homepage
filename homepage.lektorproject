@@ -1,0 +1,13 @@
+[project]
+name = Página Pessoal
+localte = pt_BR
+url = "https://gilbertosassi.netlify.app/"
+output_path = build
+
+[packages]
+lektor-netlify = 0.3
+lektor-bibtex-support = 0.1.1
+
+[servers.production]
+name = Production
+target = netlify://gilbertosassi.netlify.app

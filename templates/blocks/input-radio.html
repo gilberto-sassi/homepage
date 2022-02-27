@@ -1,0 +1,7 @@
+{% from 'macros/render-button-radio.html' import render_input_radio_button %}
+<div class="mb-3">
+    {{ this.description }}
+    {% for block in this.botao.blocks %}
+        {{ render_input_radio_button(block, this.idfield) }}
+    {% endfor %}
+</div>

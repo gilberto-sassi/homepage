@@ -1,0 +1,13 @@
+---
+title: Estatística Aplicada à Psicologia 
+author: Gilberto Pereira Sassi
+date: Primeiro semestre de 2022
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+# Resoluções e regulamentações
+
+* [Resolução 01 de 2022 do Conselho Acadêmico de Ensino](resolucao-01-2022-cae.pdf)

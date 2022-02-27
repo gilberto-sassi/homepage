@@ -1,0 +1,5 @@
+{% extends "layout.html" %}
+{% block body %}
+  <p> Publicado por <em>{{ this.author }}</em> em <em>{{ this.pub_date|dateformat('full') }} </em>.</p>
+  {{ this.body }}
+{% endblock %}

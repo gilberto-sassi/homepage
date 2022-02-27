@@ -1,0 +1,42 @@
+.container-contato {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.redes-sociais {
+    width: 50%;
+}
+
+.redes-sociais-pessoa {
+    margin-bottom: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.contato {
+    width: 50%;
+}
+
+.imagem-redes-sociais {
+    width: 2.5rem;
+}
+
+@media only screen and (max-width: 768px) { 
+    .container-contato {
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .redes-sociais {
+        width: 100%;
+        margin-top: 15px;
+    }
+    
+    .contato {
+        width: 100%;
+    }
+    
+}
