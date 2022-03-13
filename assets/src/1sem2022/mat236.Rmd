@@ -19,17 +19,19 @@ output:
 ## Tabelas
 
 * [Tabela da distribuição normal](tabela-z.pdf)
+* [Tabela da distribuição t-Student](tabela-t-student.pdf)
+* [Tabela da distribuição qui-quadrado](tabela-chi-square.pdf)
 
 ## Slides e materiais
 
 ### Primeiro dia de aula
 
-[Primeiro dia de aula](primeirodiaMAT236.pdf)
+[Primeiro dia de aula](primeirodia.pdf)
 
 ### Unidades 1, 2 e 3
 
 * [Slides - tabelas e gráficos](graficos.pdf)
-* [Slides - medidas de Resumo](medidasResumo.pdf)
+* [Slides - medidas de Resumo](medidasresumo.pdf)
 * [Lista de exercícios](lista-est-descr.pdf)
 
 ### Unidade 4
@@ -39,3 +41,10 @@ output:
 * [Slides - variável discreta](vardiscreta.pdf)
 * [Lista de exercícios](lista-prob.pdf)
 
+### Unidade 5
+
+* [Slides - intervalo de confiança](intervaloconfianca.pdf)
+* [Slides - teste de hipóteses para uma população](testehipoteses.pdf)
+* [Lista de exercícios - intervalo de confiança](lista-ex-ic.pdf)
+* [Lista de exercícios - teste de hipóteses - parte 1](lista-test-1-pop.pdf)
+* [Lista de exercícios - teste de hipóteses - parte 2](lista-test-1-pop-part2.pdf)

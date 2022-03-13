@@ -9,6 +9,32 @@ projetos:
 #### text-markdown ####
 texto:
 
+## Pacotes no `R`
+
+Pacotes desenvolvidos e mantidos por mim.
+
+### `geoFKF`
+
+Este pacote é uma implementação da minha tese de doutorado, onde eu propus um novo método de interpolação de curvas com dependência espacial dentro do contexto da *Análise Funcional de Dados*. Para mais detalhes, sobre o método proposto consulte [Banco de teses da USP](https://teses.usp.br/teses/disponiveis/45/45133/tde-02052016-110000/pt-br.php). Em minha tese de doutorado, usei ondaletas, mas neste pacote Séries de Fourier por sua simplicidade e apelo prático.
+
+Este pacote está disponível no repositório CRAN em [`geoFKF`](https://cran.r-project.org/web/packages/geoFKF/index.html).
+
+### `geoFourierFDA`
+
+Este é uma implementação do método proposto em 
+
+> [GIRALDO, R.; DELICADO, Pedro; MATEU, Jorge. Ordinary kriging for function-valued spatial data. **Environmental and Ecological Statistics**, v. 18, n. 3, p. 411-426, 2011.](https://link.springer.com/article/10.1007/s10651-010-0143-y)
+
+Neste pacote, também usamos Séries de Fourier e o pacote está disponível para download no repositório CRAN em [`geoFourierFDA`](https://cran.rstudio.com/web/packages/geoFourierFDA/index.html).
+
+### `sinar`
+
+Este pacote é resultado de um projeto de Pesquisa, onde eu e a profa Carolina Costa Mota Paraíba propomos o uso do Método do Mínimos Quadrados para o modelo de contagem com dependência espacial denominado _Spacial Integer Autoregressive Model_ (SINAR(1,1)). Neste pacote, incluímos a estimações dos parâmetros do modelo e o seus respectivos intervalos de confiança assintóticos.
+
+Você baixar este pacote diretamente do repositório CRAN em [`sinar`](https://cran.r-project.org/web/packages/sinar/index.html).
+#### text-markdown ####
+texto:
+
 ## Projetos de pesquisa
 
 Em breve.
