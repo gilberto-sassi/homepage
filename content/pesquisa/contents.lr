@@ -32,6 +32,12 @@ Neste pacote, também usamos Séries de Fourier e o pacote está disponível par
 Este pacote é resultado de um projeto de Pesquisa, onde eu e a profa Carolina Costa Mota Paraíba propomos o uso do Método do Mínimos Quadrados para o modelo de contagem com dependência espacial denominado _Spacial Integer Autoregressive Model_ (SINAR(1,1)). Neste pacote, incluímos a estimações dos parâmetros do modelo e o seus respectivos intervalos de confiança assintóticos.
 
 Você baixar este pacote diretamente do repositório CRAN em [`sinar`](https://cran.r-project.org/web/packages/sinar/index.html).
+
+### `statBasics`
+
+Criei este pacote para auxiliar no ensino dos cursos introdutórios de Estatística para alunos que não são do Bacharelado em Estatística. Você pode baixar este pacote com o seguinte comando no `R`: `remotes::install_github("gilberto-sassi/statBasics")`.
+
+Para mais detalhes, confira o repositório no [GitHub](https://github.com/) em [statBasics](https://github.com/gilberto-sassi/statBasics).
 #### text-markdown ####
 texto:
 
