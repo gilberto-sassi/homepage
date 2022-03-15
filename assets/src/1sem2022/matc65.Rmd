@@ -48,3 +48,7 @@ output:
 * [Lista de exercícios - intervalo de confiança](lista-ex-ic.pdf)
 * [Lista de exercícios - teste de hipóteses - parte 1](lista-test-1-pop.pdf)
 * [Lista de exercícios - teste de hipóteses - parte 2](lista-test-1-pop-part2.pdf)
+
+## Notas de aulas, panilhas e backup de gravações
+
+As notas de aula, as planilhas do _google docs_ e os _backup_ das gravações estão armazenadas em repositório do _Google Drive_ que você pode acessar pelo link: [Arquivos -- mat236](https://cutt.ly/arquivos-matc65-2022-1sem).
