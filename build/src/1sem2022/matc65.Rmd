@@ -51,4 +51,4 @@ output:
 
 ## Notas de aulas, panilhas e backup de gravações
 
-As notas de aula, as planilhas do _google docs_ e os _backup_ das gravações estão armazenadas em repositório do _Google Drive_ que você pode acessar pelo link: [Arquivos -- mat236](https://cutt.ly/arquivos-matc65-2022-1sem).
+As notas de aula, as planilhas do _google docs_ e os _backup_ das gravações estão armazenadas em repositório do _Google Drive_ que você pode acessar pelo link: [Arquivos -- MATC65 Estatística em Psicologia](https://cutt.ly/arquivos-matc65-2022-1sem).

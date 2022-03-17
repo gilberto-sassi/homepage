@@ -15,9 +15,9 @@ Pacotes desenvolvidos e mantidos por mim.
 
 ### `geoFKF`
 
-Este pacote é uma implementação da minha tese de doutorado, onde eu propus um novo método de interpolação de curvas com dependência espacial dentro do contexto da *Análise Funcional de Dados*. Para mais detalhes, sobre o método proposto consulte [Banco de teses da USP](https://teses.usp.br/teses/disponiveis/45/45133/tde-02052016-110000/pt-br.php). Em minha tese de doutorado, usei ondaletas, mas neste pacote Séries de Fourier por sua simplicidade e apelo prático.
+Este pacote é uma implementação da minha tese de doutorado, onde eu propus um novo método de interpolação de curvas com dependência espacial dentro do contexto da *Análise Funcional de Dados*. Para mais detalhes, sobre o método proposto consulte minha tese de doutorado em [Banco de teses da USP](https://teses.usp.br/teses/disponiveis/45/45133/tde-02052016-110000/pt-br.php). Em minha tese de doutorado, usei ondaletas, mas neste pacote usei Séries de Fourier por sua simplicidade e apelo prático.
 
-Este pacote está disponível no repositório CRAN em [`geoFKF`](https://cran.r-project.org/web/packages/geoFKF/index.html).
+Este pacote está disponível no repositório CRAN em [`geoFKF`](https://cran.r-project.org/package=geoFKF). Para maiores detalhes, configura o repositório do pacote no [GitHub](https://github.com) em [gilberto-sassi/geoFKF](https://github.com/gilberto-sassi/geoFKF).
 
 ### `geoFourierFDA`
 
@@ -25,17 +25,19 @@ Este é uma implementação do método proposto em
 
 > [GIRALDO, R.; DELICADO, Pedro; MATEU, Jorge. Ordinary kriging for function-valued spatial data. **Environmental and Ecological Statistics**, v. 18, n. 3, p. 411-426, 2011.](https://link.springer.com/article/10.1007/s10651-010-0143-y)
 
-Neste pacote, também usamos Séries de Fourier e o pacote está disponível para download no repositório CRAN em [`geoFourierFDA`](https://cran.rstudio.com/web/packages/geoFourierFDA/index.html).
+Neste pacote, também usamos Séries de Fourier e o pacote está disponível para download no repositório CRAN em [`geoFourierFDA`](https://cran.r-project.org/package=geoFourierFDA). Para maiores detalhes, configura o repositório do pacote no [GitHub](https://github.com) em [gilberto-sassi/geoFourierFDA](https://github.com/gilberto-sassi/geoFourierFDA).
 
 ### `sinar`
 
 Este pacote é resultado de um projeto de Pesquisa, onde eu e a profa Carolina Costa Mota Paraíba propomos o uso do Método do Mínimos Quadrados para o modelo de contagem com dependência espacial denominado _Spacial Integer Autoregressive Model_ (SINAR(1,1)). Neste pacote, incluímos a estimações dos parâmetros do modelo e o seus respectivos intervalos de confiança assintóticos.
 
-Você baixar este pacote diretamente do repositório CRAN em [`sinar`](https://cran.r-project.org/web/packages/sinar/index.html).
+Você baixar este pacote diretamente do repositório CRAN em [`sinar`](https://cran.r-project.org/package=sinar). Para maiores detalhes, configura o repositório do pacote no [GitHub](https://github.com) em [gilberto-sassi/sinar](https://github.com/gilberto-sassi/sinar) e o seguinte artigo:
+
+[PEREIRA SASSI, Gilberto; COSTA MOTA PARAÍBA, Carolina. **Conditional least squares estimation for the SINAR (1, 1) process.** Communications in Statistics-Simulation and Computation, p. 1-30, 2021.](https://doi.org/10.1080/03610918.2020.1871489)
 
 ### `statBasics`
 
-Criei este pacote para auxiliar no ensino dos cursos introdutórios de Estatística para alunos que não são do Bacharelado em Estatística. Você pode baixar este pacote com o seguinte comando no `R`: `remotes::install_github("gilberto-sassi/statBasics")`.
+Criei este pacote para auxiliar no ensino dos cursos introdutórios de Estatística para alunos que não são do Bacharelado em Estatística, e ele está disponível no repositório CRAN em [statBasics](https://cran.r-project.org/package=statBasics).
 
 Para mais detalhes, confira o repositório no [GitHub](https://github.com/) em [statBasics](https://github.com/gilberto-sassi/statBasics).
 #### text-markdown ####
