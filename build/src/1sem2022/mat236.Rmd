@@ -52,3 +52,8 @@ output:
 ## Notas de aulas, panilhas, scripts e backup de gravações
 
 As notas de aula, os scripts, as planilhas do _google docs_ e os _backup_ das gravações estão armazenadas em repositório do _Google Drive_ que você pode acessar pelo link: [Arquivos -- MAT236 Métodos Estatísticos](https://cutt.ly/arquivos-mat236-2022-1sem).
+
+## Nota do Fórum
+
+* [Semana de 13/03/2022 a 19/03/2022](mes-3-dia-13-ava-mat236.xlsx)
+* [Semana de 20/03/2022 a 26/03/2022](mes-3-dia-20-ava-mat236.xlsx)
