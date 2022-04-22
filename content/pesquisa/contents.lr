@@ -40,12 +40,19 @@ Você baixar este pacote diretamente do repositório CRAN em [`sinar`](https://c
 Criei este pacote para auxiliar no ensino dos cursos introdutórios de Estatística para alunos que não são do Bacharelado em Estatística, e ele está disponível no repositório CRAN em [statBasics](https://cran.r-project.org/package=statBasics).
 
 Para mais detalhes, confira o repositório no [GitHub](https://github.com/) em [statBasics](https://github.com/gilberto-sassi/statBasics).
-#### text-markdown ####
+#### text-html ####
 texto:
 
-## Projetos de pesquisa
+<h2>Projetos de pesquisa</h2>
 
-Em breve.
+<p>Projeto de pesquisa aprovado na reunião ordinária de número 561 do dia 13 de agosto de 2020 do Departamento de Estatística do Instituto de Matemática e Estatística da Universidade Federal da Bahia.</p>
+
+<h3> Resumo</h3>
+
+<p> 
+A classe de processos \(INARMA(p, q)\) foram proposto para analisar  processos estocásticos $X_t$, em que $X_t$ é uma variável aleatória com suporte nos números inteiros não-negativos. De uma maneira análoga, a classe de processos $SINAR(1,1)$ foram introduzidos para estudar processos estocásticos $X_{i,j}$ em uma estrutura espacial reticulada regular (<strong>regular lattice data</strong>) em que  variável aleatória $X_{i,j}$ é linearmente dependente de   $X_{i-1,j}$, $X{i, j-1}$ e $X_{i-1, j-1}$ .  Este projeto propõe a  investigação da estimação do modelo $SINAR(1,1)$ pelos métodos de mínimos quadrados condicionais e máxima verossimilhança condicional quando as inovações do processo $SINAR(1,1)$ tem distribuição Poisson Generalizada. Ao final deste projeto de pesquisa, teremos publicado um artigo científico e desenvolveremos um pacote na linguage <code>R</code>. 
+
+<p/>
 #### text-markdown ####
 texto:
 
