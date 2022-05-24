@@ -21,6 +21,7 @@ output:
 * [Tabela da distribuição normal](tabela-z.pdf)
 * [Tabela da distribuição t-Student](tabela-t-student.pdf)
 * [Tabela da distribuição qui-quadrado](tabela-chi-square.pdf)
+* [Tabela da distribuição F](tabela-F.pdf)
 
 ## Slides e materiais
 
