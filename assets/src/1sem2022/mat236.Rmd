@@ -49,6 +49,11 @@ output:
 * [Lista de exercícios - teste de hipóteses - parte 1](lista-test-1-pop.pdf)
 * [Lista de exercícios - teste de hipóteses - parte 2](lista-test-1-pop-part2.pdf)
 
+### Unidade 6
+
+* [Slides - intervalo de confiança e teste de hipóteses para 2 populações](testeHipoteses-2pop.pdf)
+* [Lista de exercícios - 2 populações](lista-test-2-pop.pdf)
+
 ## Notas de aulas, panilhas, scripts e backup de gravações
 
 As notas de aula, os scripts, as planilhas do _google docs_ e os _backup_ das gravações estão armazenadas em repositório do _Google Drive_ que você pode acessar pelo link: [Arquivos -- MAT236 Métodos Estatísticos](https://cutt.ly/arquivos-mat236-2022-1sem).
