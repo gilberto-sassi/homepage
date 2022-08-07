@@ -1,0 +1,127 @@
+---
+title: Métodos Estatísticos
+author: Gilberto Pereira Sassi
+date: Segundo semestre de 2022
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+## Cronograma -- planejamento acadêmico das aulas
+
+[Cronograma de atividades por semana.](cronograma-mat236.xlsx)
+
+### Programa do componente curricular aprovado pela UFBA
+
+[Programa da disciplina](https://est.ufba.br/sites/est.ufba.br/files/mat236_-_metodos_estatisticos.pdf)
+
+## Horário do plantão de dúvidas
+
+Toda quinta-feira das 14h00min até às 15h00min na sala 220 do Instituto de Matemática e Estatística teremos uma plantão de dúvidas presencial comigo.
+
+## Critério de avalição
+
+Neste curso, teremos quatro tipos de avaliação: participação no fórum, atividades de fixação e provas. A nota dessas três atividades somadas totalizam 10 pontos, e você precisa conseguir cinco pontos, no mínimo, para ser aprovado na disciplina *Métodos Estatísticos*, conforme o [Regulamento de Ensino de Graduação e Pós-graduação da UFBA](https://www.ufba.br/sites/portal.ufba.br/files/Resolucao_n_012015_REGPG_atualizado_01-04-2015%29.pdf). 
+
+Neste curso, vamos seguir o que diz o [Regulamento de Ensino de Graduação e Pós-graduação da UFBA](https://www.ufba.br/sites/portal.ufba.br/files/Resolucao_n_012015_REGPG_atualizado_01-04-2015%29.pdf), ou seja, você estará automaticamente reprovada se faltar em 25% ou mais das 68 horas do nosso curso. Como cada aula nesta disciplina tem duas horas de duração, você pode faltar, no máximo, em oito aulas. A partir da nona falta, você está automaticamente reprovada.
+
+Os pesos nos três tipos de avaliação serão decididos coletivamente no primeiro dia de aula, e a seguir eu vou explicar detalhamente cada tipo de avaliação.
+
+### Fórum
+
+Este componente curricular dará pontuação por participação no Fórum em nosso espaço do AVA. A ideia é dar uma nota por semana de aula, e tirar uma média aritmética dessas notas semanais no final do semestre.
+
+No primeiro dia de aula, vamos como será atribuída esta nota. 
+
+**Não perca o primeiro dia de aula, ela é a aula mais importante do nosso curso pois define os critérios de avaliação.**
+
+### Atividades de fixação
+
+Ao final de cada aula, terá um novo questionário que ficará disponível na seção **atividades de fixação** em nosso espaço do AVA e e as questões deste questionário abordarão o que foi visto em sala de aula. Para cada questionário, vocês terão 168 horas para responder, e a ideia é tirar uma média aritmética das notas das _atividades de fixação_ no final do semestre.
+
+As _atividades de fixação_ foram planejados para te ajudar em seu processo de aprendizagem, então vocês podem tirar dúvidas sobre os exercícios nos plantões de dúvidas que acontecem na quinta-feira.
+
+**No primeiro dia de aula, vamos determinar coletivamente como será o peso na nota final das atividades semanais.**
+
+### Provas
+
+Nosso curso terá duas provas com duração de 168 horas. As provas serão assíncronas, sem a presença do professor, e ficarão disponíveis na seção **provas** em nosso espaço do AVA. As datas das provas são:
+
+* Data do início da primeira prova: 09/10/2022
+* Data do início da segunda prova: 04/12/2022
+
+Estas datas foram acordadas no primeiro dia de aula, e só podem ser modificadas pelas estudantes com consenso entre todas discentes regularmente matriculadas no componente curricular.
+
+
+## Conjunto de dados
+
+* [`companhia_MB.xlsx`](companhia-mb.xlsx)
+
+## Tabelas
+
+* [Tabela da distribuição normal](tabela-z.pdf)
+* [Tabela da distribuição t-Student](tabela-t-student.pdf)
+* [Tabela da distribuição qui-quadrado](tabela-chi-square.pdf)
+* [Tabela da distribuição F](tabela-F.pdf)
+
+## Slides e materiais
+
+### Primeiro dia de aula
+
+[Primeiro dia de aula](primeirodia.pdf)
+
+### Unidades 1, 2 e 3
+
+Estatística descritiva: tabelas, gráficos e medidas de resumo.
+
+* [Slides - tabelas e gráficos](graficos.pdf)
+* [Slides - medidas de Resumo](medidasResumo.pdf)
+* [Lista de exercícios](lista_est_descr.pdf)
+
+### Unidade 4
+
+Probabilidade e variável aleatória.
+
+* [Slides - probabilidade](introProb.pdf)
+* [Slides - variável contínua](varContinua.pdf)
+* [Slides - variável discreta](varDiscreta.pdf)
+* [Lista de exercícios](lista_prob.pdf)
+
+### Unidade 5
+
+Intervalo de confiança e teste de hipóteses para uma população (ou grupo).
+
+* [Slides - intervalo de confiança](intervaloConfianca.pdf)
+* [Slides - teste de hipóteses para uma população](testeHipoteses.pdf)
+* [Lista de exercícios - intervalo de confiança](lista-ex-ic.pdf)
+* [Lista de exercícios - teste de hipóteses](lista-test-1-pop.pdf)
+
+
+### Unidade 6
+
+Intervalo de confiança e teste de hipóteses para duas populações (ou grupos), teste de associação entre duas variáveis qualitativas e teste de associação entre duas variáveis quantitativas.
+
+* [Slides - intervalo de confiança e teste de hipóteses para 2 populações](testeHipoteses2pop.pdf)
+* [Lista de exercícios - 2 populações](lista-test-2-pop.pdf)
+
+### Unidade 7
+
+Regressão linear simples e ANOVA.
+
+* [Slides - regressão linear simples](regressao-linear-simples.pdf)
+* [Slide - ANOVA](anova.pdf)
+* [Lista de exercícios - regressão linear simples](lista-regressao-simples.pdf)
+* [Lista de exercícios - ANOVA](lista-anova.pdf)
+
+## Referências 
+
+### Referências principais
+
+* [MORETTIN, Pedro Alberto; BUSSAB, Wilton Oliveira. Estatística Básica. Editora Saraiva, 2017.](bussab.pdf)
+* [MONTGOMERY, Douglas C.; RUNGER, George C. Applied Statistics and Probability for Engineers. John Wiley & Sons, 2010.](montgomery.pdf)
+
+### Referências secundárias
+
+* [BARBETTA, Pedro Alberto. Estatística Aplicada às Ciências Sociais. Editora UFSC, 2008.](barbetta.pdf)
+* [KOTTEGODA, Nathabandu T.; ROSSO, Renzo. Applied statistics for civil and environmental engineers. 2008.](Kottegoda.pdf)
