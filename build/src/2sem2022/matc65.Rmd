@@ -57,7 +57,7 @@ A as provas terão nota máxima 3.
 
 ## Conjunto de dados
 
-* [`companhia_MB.xlsx`](companhia-mb.xlsx)
+* [`companhia_MB.xlsx`](companhia_MB.xlsx)
 
 ## Tabelas
 
