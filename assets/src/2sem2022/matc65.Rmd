@@ -20,6 +20,10 @@ output:
 
 Toda quinta-feira das 14h00min até às 15h00min na sala 220 do Instituto de Matemática e Estatística teremos uma plantão de dúvidas presencial comigo.
 
+## Horário da aula
+
+Terças e quintas das 07h00min até às 08h40min na sala 206 do PAF-1 no campus Ondina-Federação.
+
 ## Critério de avalição
 
 Neste curso, teremos quatro tipos de avaliação: participação no fórum, atividades de fixação e provas. A nota dessas três atividades somadas totalizam 10 pontos, e você precisa conseguir cinco pontos, no mínimo, para ser aprovado na disciplina *Métodos Estatísticos*, conforme o [Regulamento de Ensino de Graduação e Pós-graduação da UFBA](https://www.ufba.br/sites/portal.ufba.br/files/Resolucao_n_012015_REGPG_atualizado_01-04-2015%29.pdf). 
@@ -30,19 +34,15 @@ Os pesos nos três tipos de avaliação serão decididos coletivamente no primei
 
 ### Fórum
 
-Este componente curricular dará pontuação por participação no Fórum em nosso espaço do AVA. A ideia é dar uma nota por semana de aula, e tirar uma média aritmética dessas notas semanais no final do semestre.
+Este componente curricular dará pontuação por participação no _Fórum_ em nosso espaço do AVA. A ideia é dar uma nota por semana de aula, e tirar uma média aritmética dessas notas semanais no final do semestre.
 
-No primeiro dia de aula, vamos como será atribuída esta nota. 
-
-**Não perca o primeiro dia de aula, ela é a aula mais importante do nosso curso pois define os critérios de avaliação.**
+Conforme estabelecido no primeiro dia de aula (16/08/2022), se você visualizar o _Fórum_ pelo menos uma vez na semana, você terá nota 4 no Fórum na semana. Caso contrário, você terá nota 0 na semana.
 
 ### Atividades de fixação
 
 Ao final de cada aula, terá um novo questionário que ficará disponível na seção **atividades de fixação** em nosso espaço do AVA e e as questões deste questionário abordarão o que foi visto em sala de aula. Para cada questionário, vocês terão 168 horas para responder, e a ideia é tirar uma média aritmética das notas das _atividades de fixação_ no final do semestre.
 
-As _atividades de fixação_ foram planejados para te ajudar em seu processo de aprendizagem, então vocês podem tirar dúvidas sobre os exercícios nos plantões de dúvidas que acontecem na quinta-feira.
-
-**No primeiro dia de aula, vamos determinar coletivamente como será o peso na nota final das atividades semanais.**
+Cada _atividade de fixação_ terá nota máxima 3.
 
 ### Provas
 
@@ -53,6 +53,7 @@ Nosso curso terá duas provas com duração de 168 horas. As provas serão assí
 
 Estas datas foram acordadas no primeiro dia de aula, e só podem ser modificadas pelas estudantes com consenso entre todas discentes regularmente matriculadas no componente curricular.
 
+A as provas terão nota máxima 3.
 
 ## Conjunto de dados
 

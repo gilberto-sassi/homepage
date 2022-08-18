@@ -30,19 +30,15 @@ Os pesos nos três tipos de avaliação serão decididos coletivamente no primei
 
 ### Fórum
 
-Este componente curricular dará pontuação por participação no Fórum em nosso espaço do AVA. A ideia é dar uma nota por semana de aula, e tirar uma média aritmética dessas notas semanais no final do semestre.
+Este componente curricular dará pontuação por participação no _Fórum_ em nosso espaço do AVA. A ideia é dar uma nota por semana de aula, e tirar uma média aritmética dessas notas semanais no final do semestre.
 
-No primeiro dia de aula, vamos como será atribuída esta nota. 
-
-**Não perca o primeiro dia de aula, ela é a aula mais importante do nosso curso pois define os critérios de avaliação.**
+Conforme decidimos no primeiro dia de aula (dia 16/08/2022), se você fizer duas ou mais visualização (em dias diferentes) você terá nota 2 na semana, se você fizer uma única visualização você terá nota 1 na semana, e se você não entrar no _Fórum_ terá nota 0 na semana.
 
 ### Atividades de fixação
 
 Ao final de cada aula, terá um novo questionário que ficará disponível na seção **atividades de fixação** em nosso espaço do AVA e e as questões deste questionário abordarão o que foi visto em sala de aula. Para cada questionário, vocês terão 168 horas para responder, e a ideia é tirar uma média aritmética das notas das _atividades de fixação_ no final do semestre.
 
-As _atividades de fixação_ foram planejados para te ajudar em seu processo de aprendizagem, então vocês podem tirar dúvidas sobre os exercícios nos plantões de dúvidas que acontecem na quinta-feira.
-
-**No primeiro dia de aula, vamos determinar coletivamente como será o peso na nota final das atividades semanais.**
+Cada _atividade de fixação_ terá nota máxima 4.
 
 ### Provas
 
@@ -53,6 +49,7 @@ Nosso curso terá duas provas com duração de 168 horas. As provas serão assí
 
 Estas datas foram acordadas no primeiro dia de aula, e só podem ser modificadas pelas estudantes com consenso entre todas discentes regularmente matriculadas no componente curricular.
 
+Cada prova terá nota máxima 4.
 
 ## Conjunto de dados
 
