@@ -20,13 +20,22 @@ output:
 
 Toda terça-feira das 14h00min até às 15h00min na sala 220 do Instituto de Matemática e Estatística teremos uma plantão de dúvidas presencial comigo.
 
+## Horário de atendimento da monitoria
+
+Temos uma monitora remunerada para nossa disciplina: Ana. Ela fará plantões de dúvidas (atendimento) _on-line_ na _Sala de atendimento_ no AVA nos seguintes dias e horários:
+
+* Segunda-feira no horário das 20h00min às 21h00min;
+* Quarta-feira no horário das 20h00min às 21h00min.
+
+Ana esperará 15 minutos na _Sala de atendimento_, se nenhum estudante aparecer em 15 minutos ela fechará a sessão. Além disso, todos os plantões de atendimento de Ana serão gravados e disponibilizados ~~automaticamente~~ pelo AVA.
+
 ## Horário da aula
 
 Terças e quintas das 07h00min até às 08h40min na sala 206 do PAF-1 no campus Ondina-Federação.
 
 ## Critério de avalição
 
-Neste curso, teremos quatro tipos de avaliação: participação no fórum, atividades de fixação e provas. A nota dessas três atividades somadas totalizam 10 pontos, e você precisa conseguir cinco pontos, no mínimo, para ser aprovado na disciplina *Métodos Estatísticos*, conforme o [Regulamento de Ensino de Graduação e Pós-graduação da UFBA](https://www.ufba.br/sites/portal.ufba.br/files/Resolucao_n_012015_REGPG_atualizado_01-04-2015%29.pdf). 
+Neste curso, teremos três tipos de avaliação: participação no fórum, atividades de fixação e provas. A nota dessas três atividades somadas totalizam 10 pontos, e você precisa conseguir cinco pontos, no mínimo, para ser aprovado na disciplina *Métodos Estatísticos*, conforme o [Regulamento de Ensino de Graduação e Pós-graduação da UFBA](https://www.ufba.br/sites/portal.ufba.br/files/Resolucao_n_012015_REGPG_atualizado_01-04-2015%29.pdf). 
 
 Neste curso, vamos seguir o que diz o [Regulamento de Ensino de Graduação e Pós-graduação da UFBA](https://www.ufba.br/sites/portal.ufba.br/files/Resolucao_n_012015_REGPG_atualizado_01-04-2015%29.pdf), ou seja, você estará automaticamente reprovada se faltar em 25% ou mais das 68 horas do nosso curso. Como cada aula nesta disciplina tem duas horas de duração, você pode faltar, no máximo, em oito aulas. A partir da nona falta, você está automaticamente reprovada.
 
