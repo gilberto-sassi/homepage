@@ -111,6 +111,14 @@ Regressão linear simples e ANOVA.
 * [Lista de exercícios - regressão linear simples](lista-regressao-simples.pdf)
 * [Lista de exercícios - ANOVA](lista-anova.pdf)
 
+## Material complementar
+
+### Introdução à Estatística usando a linguagem `R`
+
+Vídeos explicando estatística básica usando a linguagem `R`. Os vídeos são antigos, foram gravados usando o microfone da minha webcam, foram gravados sem roteiro e estão sem edição. Então a qualidade deles é bem baixa, mas pode ser útil para alguém.
+
+[![logo do R](https://i.postimg.cc/SKTcWZDn/imagem-yt.jpg)](https://www.youtube.com/watch?v=Fft1b6ceGds&list=PLpjBSKbf4gSr-7iW7CasmVP1IDqxTBa78 "Introduação à Estatística Usando a linguagem R.")
+
 ## Referências 
 
 ### Referências principais
