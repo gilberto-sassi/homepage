@@ -111,6 +111,11 @@ Regressão linear simples e ANOVA.
 * [Lista de exercícios - regressão linear simples](lista-regressao-simples.pdf)
 * [Lista de exercícios - ANOVA](lista-anova.pdf)
 
+## Número de faltas
+
+* [Número de faltas até o dia 04/09/2022](mat236-mes-09-dia-04-ava.xlsx)
+
+
 ## Nota do Fórum
 
 Nota semana por fórum conforme contrato didático no dia 16/08/2022, incluo abaixo a nota por semana do fórum.
