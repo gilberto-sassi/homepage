@@ -18,14 +18,14 @@ output:
 
 ## Horário do plantão de dúvidas
 
-Toda terça-feira das 14h00min até às 15h00min na sala 220 do Instituto de Matemática e Estatística teremos uma plantão de dúvidas presencial comigo.
+Toda terça-feira das 13h00min até às 14h00min na sala 220 do Instituto de Matemática e Estatística teremos uma plantão de dúvidas presencial comigo.
 
 ## Horário de atendimento da monitoria
 
 Temos uma monitora remunerada para nossa disciplina: Ana. Ela fará plantões de dúvidas (atendimento) _on-line_ na _Sala de atendimento_ no AVA nos seguintes dias e horários:
 
-* Segunda-feira no horário das 20h00min às 21h00min;
 * Quarta-feira no horário das 20h00min às 21h00min.
+* Quinta-feira no horário das 20h00min às 21h00min;
 
 Ana esperará 15 minutos na _Sala de atendimento_, se nenhum estudante aparecer em 15 minutos ela fechará a sessão. Além disso, todos os plantões de atendimento de Ana serão gravados e disponibilizados ~~automaticamente~~ pelo AVA.
 
@@ -39,7 +39,7 @@ Neste curso, teremos três tipos de avaliação: participação no fórum, ativi
 
 Neste curso, vamos seguir o que diz o [Regulamento de Ensino de Graduação e Pós-graduação da UFBA](https://www.ufba.br/sites/portal.ufba.br/files/Resolucao_n_012015_REGPG_atualizado_01-04-2015%29.pdf), ou seja, você estará automaticamente reprovada se faltar em 25% ou mais das 68 horas do nosso curso. Como cada aula nesta disciplina tem duas horas de duração, você pode faltar, no máximo, em oito aulas. A partir da nona falta, você está automaticamente reprovada.
 
-Os pesos nos três tipos de avaliação serão decididos coletivamente no primeiro dia de aula, e a seguir eu vou explicar detalhamente cada tipo de avaliação.
+A nota de participação no Fórum vale 4 pontos em sua nota final, a nota das provas valem 3 pontos em sua nota final e as atividades de fixação valem 3 pontos.
 
 ### Fórum
 
@@ -62,7 +62,7 @@ Nosso curso terá duas provas com duração de 168 horas. As provas serão assí
 
 Estas datas foram acordadas no primeiro dia de aula, e só podem ser modificadas pelas estudantes com consenso entre todas discentes regularmente matriculadas no componente curricular.
 
-A as provas terão nota máxima 3.
+As provas terão nota máxima 3.
 
 ## Conjunto de dados
 

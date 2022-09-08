@@ -18,7 +18,16 @@ output:
 
 ## Horário do plantão de dúvidas
 
-Toda terça-feira das 14h00min até às 15h00min na sala 220 do Instituto de Matemática e Estatística teremos uma plantão de dúvidas presencial comigo.
+Toda terça-feira das 13h00min até às 14h00min na sala 220 do Instituto de Matemática e Estatística teremos uma plantão de dúvidas presencial comigo.
+
+## Horário de _plantão de dúvidas_ da monitoria
+
+O monitor (remunerado) Luiz Antônio fará plantões de dúvidas nos seguintes dias e horários:
+
+* Segunda-feira: das 13h00min até 14h50min na sala 120 do PAF-1.
+* Quinta-feira: das 18h30min até 20h20min na sala 107 do PAF-1.
+* Sexta-feira das 10h40min até 12h30min na [sala de atendimento on-line (google meet)](https://meet.google.com/wqo-fpmz-fxu)
+
 
 ## Critério de avalição
 
@@ -26,13 +35,15 @@ Neste curso, teremos três tipos de avaliação: participação no fórum, ativi
 
 Neste curso, vamos seguir o que diz o [Regulamento de Ensino de Graduação e Pós-graduação da UFBA](https://www.ufba.br/sites/portal.ufba.br/files/Resolucao_n_012015_REGPG_atualizado_01-04-2015%29.pdf), ou seja, você estará automaticamente reprovada se faltar em 25% ou mais das 68 horas do nosso curso. Como cada aula nesta disciplina tem duas horas de duração, você pode faltar, no máximo, em oito aulas. A partir da nona falta, você está automaticamente reprovada.
 
-Os pesos nos três tipos de avaliação serão decididos coletivamente no primeiro dia de aula, e a seguir eu vou explicar detalhamente cada tipo de avaliação.
+Conforme decidido no primeiro dia de aula (16/08/2022). A média das provas valem 4 pontos em sua nota final, a média da nota de participação do Fórum vale 2 pontos em sua nota final e a média das atividades de fixação valem 4 pontos em sua nota final.
 
 ### Fórum
 
 Este componente curricular dará pontuação por participação no _Fórum_ em nosso espaço do AVA. A ideia é dar uma nota por semana de aula, e tirar uma média aritmética dessas notas semanais no final do semestre.
 
-Conforme decidimos no primeiro dia de aula (dia 16/08/2022), se você fizer duas ou mais visualização (em dias diferentes) você terá nota 2 na semana, se você fizer uma única visualização você terá nota 1 na semana, e se você não entrar no _Fórum_ terá nota 0 na semana.
+Conforme decidimos no primeiro dia de aula (dia 16/08/2022), se você fizer duas ou mais visualização (em dias diferentes) você terá nota 2 na semana, se você fizer uma única visualização na semana você terá nota 1 na semana, e se você não entrar no _Fórum_ terá nota 0 na semana.
+
+A nota final de participação no Fórum será a média das notas por semana de participação no Fórum.
 
 ### Atividades de fixação
 
@@ -47,7 +58,7 @@ Nosso curso terá duas provas com duração de 168 horas. As provas serão assí
 * Data do início da primeira prova: 09/10/2022
 * Data do início da segunda prova: 04/12/2022
 
-Estas datas foram acordadas no primeiro dia de aula, e só podem ser modificadas pelas estudantes com consenso entre todas discentes regularmente matriculadas no componente curricular.
+Estas datas foram acordadas no primeiro dia de aula (16/08/2022), e só podem ser modificadas pelas estudantes com consenso entre todas discentes regularmente matriculadas no componente curricular.
 
 Cada prova terá nota máxima 4.
 
