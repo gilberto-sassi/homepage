@@ -124,7 +124,7 @@ Regressão linear simples e ANOVA.
 
 ## Número de faltas
 
-* [Número de faltas até o dia 19/09/2022](mat236-mes-09-dia-19-ava.xlsx)
+* [Número de faltas até o dia 27/09/2022](mes-09-dia-27-mat236-t04-20222-ava.xlsx)
 
 
 ## Nota do Fórum
