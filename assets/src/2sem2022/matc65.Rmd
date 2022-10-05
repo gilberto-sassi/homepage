@@ -155,6 +155,10 @@ Vídeos explicando estatística básica usando a linguagem `R`. Os vídeos são 
 
 [![Medidas de Resumo no excel](https://i.postimg.cc/MGwfgmkt/excel-yt.jpg)](https://youtu.be/RHO79we6FOc "Medidas de resumo e quantis usando excel.")
 
+### Arquivo excel e teorema central do limite (aula do dia 04/10/2022)
+
+[arquivo excel -- aula do dia 04/10/2022](https://ufbabr-my.sharepoint.com/:x:/g/personal/gilberto_sassi_ufba_br/EemnCiCQEBRLpe-0hbk4ZLsBRLcleRhbpNzVYMkBZK1LUw?e=gogzKa)
+
 ## Referências 
 
 ### Referências principais
