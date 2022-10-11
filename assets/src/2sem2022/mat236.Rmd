@@ -124,7 +124,7 @@ Regressão linear simples e ANOVA.
 
 ## Número de faltas
 
-* [Número de faltas até o dia 27/09/2022](mes-09-dia-27-mat236-t04-20222-ava.xlsx)
+* [Número de faltas até o dia 11/10/2022](mes-10-dia-11-mat236-t04-20222-ava.xlsx)
 
 
 ## Nota do Fórum
@@ -137,6 +137,7 @@ Nota semana por fórum conforme contrato didático no dia 16/08/2022, incluo aba
 * [Semana 11/09/2022 a 17/09/2022](mes-9-dia-11-ava-mat236.xlsx)
 * [Semana 18/09/2022 a 24/09/2022](mes-9-dia-18-ava-mat236.xlsx)
 * [Semana 25/09/2022 a 01/10/2022](mes-9-dia-25-ava-mat236.xlsx)
+* [Semana 02/10/2022 a 08/10/2022](mes-10-dia-2-ava-mat236.xlsx)
 
 
 ## Material complementar
