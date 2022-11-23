@@ -124,7 +124,7 @@ Regressão linear simples e ANOVA.
 
 ## Número de faltas
 
-* [Número de faltas até o dia 17/11/2022](mes-11-dia-17-mat236-t04-20222.xlsx)
+* [Número de faltas até o dia 23/11/2022](mes-11-dia-23-mat236-t04-20222.xlsx)
 
 
 ## Nota do Fórum
@@ -142,6 +142,8 @@ Nota semana por fórum conforme contrato didático no dia 16/08/2022, incluo aba
 * [Semana 16/10/2022 a 22/10/2022](mes-10-dia-16-ava-mat236.xlsx)
 * [Semana 23/10/2022 a 29/10/2022](mes-10-dia-23-ava-mat236.xlsx)
 * [Semana 30/10/2022 a 05/11/2022](mes-10-dia-30-ava-mat236.xlsx)
+* [Semana 06/11/2022 a 12/11/2022](mes-11-dia-6-ava-mat236.xlsx)
+* [Semana 13/11/2022 a 19/11/2022](mes-11-dia-13-ava-mat236.xlsx)
 
 ## Aula do dia 01/11/2022
 
@@ -149,6 +151,9 @@ A gravação da aula do dia 01/11/2022 está disponível no YouTube (como _não 
 
 [![aula on-line](https://i.postimg.cc/c4Qkz1H1/mq2.jpg)](https://youtu.be/JlnJIlYkWSw "Aula do dia 01/11/2022.")
 
+## Teste de Associação 
+
+Para te ajudar na atividade do dia 22/11/2022, realizei o teste de assoaciação entre variáveis qualitativas e variáveis quantitativas usando programa de planilhas: [arquivo excel](teste_associacao.xlsx).
 
 ## Material complementar
 
