@@ -8,4 +8,64 @@ output:
     highlight: github
 ---
 
+## Cronograma
+
+[Cronograma de atividades por semana](cronograma-matc65.xlsx)
+
+## Slides
+
+### Primeiro dia de aula 
+
+[Primeiro dia](primeiroDia-matc65.pdf)
+
+### Estatística descritiva
+
+* [Gráficos](graficos.pdf)
+* [Medidas de resumo](medidasResumo.pdf)
+
+### Probabilidade
+
+* [Introdução à probabilidade](introProb.pdf)
+* [Variável aleatória contínua](varContinua.pdf)
+* [Variável aleatória discreta](varDiscreta.pdf)
+
+### Intervalo de confiança: uma população
+
+[Intervalo de confiança: uma população](intervaloConfianca.pdf)
+
+### Teste de hipóteses: uma população
+
+[Teste de hipóteses: uma população](testeHipoteses.pdf)
+
+### Teste de hipóteses: duas populações
+
+[Teste de hipóteses: duas populações](lista-test-2-pop.pdf)
+
+### Regressão linear simples
+
+[Regressão linear simples](regressao-linear-simples.pdf)
+
+## Listas de exercícios
+
+* [Lista 1](lista_est_descr.pdf)
+* [Lista 2](lista_prob.pdf)
+* [Lista 3](lista-ex-ic.pdf)
+* [Lista 4](lista-test-1-pop.pdf)
+* [Lista 5](lista-test-2-pop.pdf)
+* [Lista 6](lista-regressao-simples.pdf)
+
+## Aulas práticas
+
+Em breve.
+
+### Conjunto de dados
+
+[`empresa_XXX.xlsx`](empresa_XXX.xlsx)
+
+### Código
+
+Em breve.
+
+## Número de faltas
+
 Em breve.

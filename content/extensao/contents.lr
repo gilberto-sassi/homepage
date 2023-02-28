@@ -7,8 +7,18 @@ informacoes:
 #### text-markdown ####
 texto:
 
-## Estatística Descritiva em `R`
+## `R` para Ciência de Dados: Regressão Linear Simples e Múltipla
 
-O conhecimento da ciência Estatística e de suas metodologias, bem como das suas ferramentas de manipulação e análise de dados, é muito importante nas mais diferentes áreas do conhecimento. Nesse curso, vamos usar o software livre `R`, o software mais usado para análises estatísticas atualmente por causa das constantes atualizações do software e da grande comunidade usuários que adicionam diariamente novas funcionalidades e pacotes. O objetivo do curso é introduzir a linguagem `R` e os conceitos básicos de Estatística em um contexto prático, em especial os métodos de Estatística Descritiva. Serão apresentados pacotes incluídos no `tidyverse`, como o `dplyr` e `ggplot2`. Como resultado do curso, espera-se que os participantes demonstrem domínio básico de conceitos da Estatística e domínio inicial da linguagem `R`. O curso consiste em aulas práticas onde os participantes aprenderão a teoria, sempre fazendo uso de exemplos tratados no ambiente do `R`.
+O objetivo deste curso é compartilhar o conhecimento de análise estatística de dados  usando a linguagem `R` numa interação dialógica da comunidade acadêmica com a sociedade por meio da troca de conhecimentos. A ação cumprirá o papel de aproximar a academia da comunidade, popularizando a ciência Estatística e trazendo para dentro da universidade experiência e a grande demanda que profissionais têm de usar Estatística e Ciência de Dados. A ação procurará integrar discentes em sua equipe organizadora. O curso se propõe a apresentar a linguagem `R` e os princípios de modelagem de dados, abordando os tópicos de regressão linear simples e múltipla usando os frameworks `tidyverse` e `tidymodels`, especialmente os pacotes `broom`, `gglm` e `qqplotr`. O curso terá 8 horas com 2 encontros presenciais com duração de quatro horas nos laboratórios de ensino de informática do IMEUFBA, será gratuito com certificado emitido pela UFBA e terá 15 vagas.
 
-Para mais informações e inscrições, acesse [cursos-ufba.netlify.app](https://cursos-ufba.netlify.app).
+Para mais informações e inscrições, visite [regressao-linear.simple.ink](https://regressao-linear.simple.ink).
+#### text-markdown ####
+texto:
+
+------
+
+## `R` para Ciência de Dados: Exploração e Visualização
+
+O objetivo deste curso é compartilhar o conhecimento de análise estatística de dados usando a linguagem `R` numa interação dialógica da comunidade acadêmica com a sociedade por meio da troca de conhecimentos. A ação cumprirá o papel de aproximar a academia da comunidade, popularizando a ciência Estatística e trazendo para dentro da universidade a experiência e a grande demanda que profissionais têm de usar Estatística e Ciência de Dados. A ação procurará integrar discentes em sua equipe organizadora.  O curso se propõe a apresentar a linguagem `R` e os princípios de exploração e visualização de dados utilizando o framework tidyverse especialmente os pacotes `ggplot2` e `dplyr`. O curso terá 8 horas com 2 encontros presenciais com duração de quatro horas nos laboratórios de ensino de informática do IME-UFBA, será gratuito com certificado emitido pela UFBA e terá 15 vagas.
+
+Para mais informações e inscrições, acesse [r-ciencia-de-dados.simple.ink](https://r-ciencia-de-dados.simple.ink).
