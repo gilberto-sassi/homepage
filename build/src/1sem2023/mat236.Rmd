@@ -57,13 +57,21 @@ output:
 
 Em breve.
 
-### Conjunto de dados
+## Conjunto de dados
 
 [`empresa_XXX.xlsx`](empresa_XXX.xlsx)
 
-### Código
+## Código
 
 Em breve.
+
+## Referências
+
+[Applied Statistics and Probability for Engineers](applied-statistics-montgomery.pdf)<br>
+[Estatística Aplicada às Ciências Sociais](estatistica-aplicada-barbetta.pdf)<br>
+[Estatśitica Básica](estatistica-basica-bussab-morettin.pdf)<br>
+[Applied Statistics for Civil and Environmental Engineers](kottegoda.pdf)
+
 
 ## Número de faltas
 
