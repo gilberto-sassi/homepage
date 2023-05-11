@@ -80,4 +80,5 @@ Em breve.
 
 ## Número de faltas
 
-[Número de faltas até 30/03/2023](2023-03-31-matc65.xlsx)
+[Número de faltas até 30/03/2023](2023-03-31-matc65.xlsx)<br>
+[Número de faltas até 11/05/2023](2023-05-11-matc65.xlsx)
