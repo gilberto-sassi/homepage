@@ -38,7 +38,7 @@ output:
 
 ### Teste de hipóteses: duas populações
 
-[Teste de hipóteses: duas populações](lista-test-2-pop.pdf)
+[Teste de hipóteses: duas populações](testeHipoteses2pop.pdf)
 
 ### Regressão linear simples
 
@@ -55,15 +55,11 @@ output:
 
 ## Aulas práticas
 
-Em breve.
+[Código da aula do dia 11/05/2023](https://colab.research.google.com/drive/1jIi3g-9T36wgwRCBSKMJ9cxojWQHScLK?usp=sharing)
 
 ## Conjunto de dados
 
 [`empresa_XXX.xlsx`](empresa_XXX.xlsx)
-
-## Código
-
-Em breve.
 
 ## Referências
 

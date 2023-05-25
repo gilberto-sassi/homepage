@@ -39,7 +39,7 @@ output:
 
 ### Teste de hipóteses: duas populações
 
-[Teste de hipóteses: duas populações](lista-test-2-pop.pdf)
+[Teste de hipóteses: duas populações](testeHipoteses2pop.pdf)
 
 ### Regressão linear simples
 
@@ -58,17 +58,10 @@ output:
 
 Gravações de aula durante o período de pandemia de dois anos atrás está no link [gravação de dois anos atrás](https://bit.ly/gravacao_matc65_2022_1). Gostaria de te alertar que a maneira como eu explico os conteúdos no formato on-line há dois anos atrás pode não ser a mesma forma que eu explico os conteúdos hoje no formato presencial.
 
-## Aulas práticas
-
-Em breve.
 
 ## Conjunto de dados
 
 [`empresa_XXX.xlsx`](empresa_XXX.xlsx)
-
-## Código
-
-Em breve.
 
 ## Referências
 
