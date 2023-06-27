@@ -71,6 +71,4 @@ output:
 
 ## Número de faltas
 
-[Número de faltas até 30/03/2023](2023-03-31-mat236.xlsx)<br>
-[Número de faltas até 11/05/2023](2023-05-11-mat236.xlsx)<br>
-[Número de faltas até 23/05/2023](2023-05-23-mat236.xlsx)
+[Número de faltas](https://ufbabr-my.sharepoint.com/:x:/g/personal/gilberto_sassi_ufba_br/ESV_HNlBxHZBnjNWgGcliHcBt46D_K4aWlce0Lu4920CmQ?e=w6nO6V){target="_blank"}
