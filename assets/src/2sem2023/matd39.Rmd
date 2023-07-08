@@ -1,0 +1,14 @@
+---
+title: Análise Descritiva e Exploratória de Dados A - MATD39
+author: Gilberto Pereira Sassi
+date: Segundo semestre de 2023
+output:
+  html_document:
+    theme: readable
+    highlight: kate
+    toc: true
+    toc_float: true
+---
+
+## Cronograma
+
