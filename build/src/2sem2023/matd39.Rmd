@@ -12,3 +12,13 @@ output:
 
 ## Cronograma
 
+[Cronograma - Análise Descritiva e Exploratória de Dados A - MATD39](cronograma-matd39.xlsx)
+
+## Referências
+
+[Estatística básica](estatistica-basica-bussab-morettin.pdf){target="_blank"}<br>
+[Applied statistics and probability for engineers](applied-statistics-montgomery.pdf){target="_blank"}<br>
+[`R` for Data Science](https://r4ds.hadley.nz/){target="_blank"}<br>
+[`python` for Data Analysis](https://wesmckinney.com/book/){target="_blank"}<br>
+[`rmarkdown`: The definitive guide](https://bookdown.org/yihui/rmarkdown/){target="_blank"}<br>
+[`quarto` documentation](https://quarto.org/docs/guide/){target="_blank"}

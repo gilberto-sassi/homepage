@@ -12,3 +12,9 @@ output:
 
 ## Cronograma
 
+[cronograma - Probabilidade I - MAT223](cronograma-mat223.xlsx)
+
+## Referências
+
+[A course in mathematical statistics](a-course-in-mathematical-statistics.pdf){target="_blank"}<br>
+[A first course probability ross](a-first-course-probability-ross.pdf){target="_blank"}
