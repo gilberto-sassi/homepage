@@ -14,6 +14,18 @@ output:
 
 [cronograma - Probabilidade I - MAT223](cronograma-mat223.xlsx)
 
+## Servidor no discord
+
+Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_. Entre no servidor usando o seguinte link: [estatísticos](https://discord.gg/48u3s5JcrA).
+
+## Slides
+
+[Primeiro dia de aula](primeiro-dia-mat223.pdf){target="_blank"}
+
+## Primeiro dia de aula
+
+O critério de avaliação, datas das provas e demais informações foram divulgadas no primeiro dia de aula. Estas informações estão nos slides usados, que você pode acessar pelo seguinte link: [primeiro dia de aula](primeiro-dia-mat223.pdf){target="_blank"}.
+
 ## Referências
 
 [A course in mathematical statistics](a-course-in-mathematical-statistics.pdf){target="_blank"}<br>
