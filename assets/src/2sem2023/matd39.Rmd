@@ -20,7 +20,8 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 
 ## Slides
 
-[Primeiro dia de aula](primeiro-dia-matd39.pdf){target="_blank"}
+[Primeiro dia de aula](primeiro-dia-matd39.pdf){target="_blank"}<br>
+[Exploração e visualização de dados](exploracao-visualizacao.pdf){target="_blank"}
 
 
 ## Primeiro dia de aula
