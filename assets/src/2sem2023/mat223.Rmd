@@ -26,6 +26,10 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 
 O critério de avaliação, datas das provas e demais informações foram divulgadas no primeiro dia de aula. Estas informações estão nos slides usados, que você pode acessar pelo seguinte link: [primeiro dia de aula](primeiro-dia-mat223.pdf){target="_blank"}.
 
+## Número de faltas
+
+[Número de faltas.](https://docs.google.com/spreadsheets/d/1saiAAt05lS10IeY7qZJYfdIF5kEf07H7R3PSySOQmgA/edit?usp=sharing){target="_blank"}
+
 ## Referências
 
 [A course in mathematical statistics](a-course-in-mathematical-statistics.pdf){target="_blank"}<br>
