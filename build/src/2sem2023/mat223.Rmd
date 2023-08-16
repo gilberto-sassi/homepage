@@ -30,6 +30,12 @@ O critério de avaliação, datas das provas e demais informações foram divulg
 
 [Número de faltas.](https://docs.google.com/spreadsheets/d/1saiAAt05lS10IeY7qZJYfdIF5kEf07H7R3PSySOQmgA/edit?usp=sharing){target="_blank"}
 
+## Lista de exercícios
+
+### Primeira Lista
+
+Faça os seguintes exercícios do capítulo 1 do livro [A course in mathematical statistics](a-course-in-mathematical-statistics.pdf){target="_blank"}: 1.1.1, 1.1.2, 1.1.4, 1.1.5, 1.1.6, 1.1.7, 1.1.8, 1.1.9, 1.1.10, 1.1.11, 1.1.12, 1.2.1, 1.2.2, 1.2.3, 1.2.4, 1.2.5, 1.2.6, 1.2.7, e 1.2.8.
+
 ## Referências
 
 [A course in mathematical statistics](a-course-in-mathematical-statistics.pdf){target="_blank"}<br>
