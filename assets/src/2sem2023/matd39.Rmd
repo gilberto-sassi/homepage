@@ -29,7 +29,7 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 
 ---
 
-Como explicado em sala de aula, cada estudante vai analisar uma amostra de candidatos do ENEM de 2022 em específica cidade (olhe na tabela abaixo). Em sua cidade, a/o estudante vai verificar se existe raça (`tp_cor_raca`) e tipo de escola (`tp_escola`) exercem influência na nota de matemática (`nu_nota_mt`).
+Como explicado em sala de aula, cada estudante vai analisar uma amostra de candidatos do ENEM de 2022 em específica cidade (olhe na tabela abaixo). Em sua cidade, a/o estudante vai verificar se raça (`tp_cor_raca`) e/ou tipo de escola (`tp_escola`) _exercem influência_ na nota de matemática (`nu_nota_mt`).
 
 ```{r}
 #| echo: false
