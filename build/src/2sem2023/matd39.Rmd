@@ -71,6 +71,10 @@ df_tab <- cbind(
 knitr::kable(df_tab, caption = "Conjunto de dados de cada estudante com amostras de candidatos do ENEM 2022 para cidades do Brasil.")
 ```
 
+## Código das aula
+
+[aula do dia 23/08/2023](aula_2023_08_2023.zip)
+
 ## Primeiro dia de aula
 
 O critério de avaliação, datas das provas e demais informações foram divulgadas no primeiro dia de aula. Estas informações estão nos slides usados, que você pode acessar pelo seguinte link: [primeiro dia de aula](primeiro-dia-matd39.pdf){target="_blank"}.
