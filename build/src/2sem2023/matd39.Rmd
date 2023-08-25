@@ -40,9 +40,9 @@ library(tidyverse)
 
 set.seed(12345)
 
-df_estudantes <- read_xlsx("matd39-inscritos.xlsx")
-df_cidades <- read_xlsx("maiores-cidades-br.xlsx")
-df_cidades <- sample_n(df_cidades, nrow(df_estudantes))
+df_estudantes <- read_xlsx(glue("matd39-inscritos.xlsx"))
+df_cidades_raw <- read_xlsx(glue("maiores-cidades-br.xlsx"))
+df_cidades <- sample_n(df_cidades_raw, nrow(df_estudantes))
 
 col_csv <- seq_len(nrow(df_cidades)) |>
   map_chr(\(k) {
@@ -52,8 +52,6 @@ col_xlsx <- seq_len(nrow(df_cidades)) |>
   map_chr(\(k) {
     glue("[{df_cidades$cidade[k]}]({df_cidades$apelido[k]}.xlsx)")
   })
-
-
 
 df_tab <- cbind(
   df_cidades |> select(-apelido),
@@ -68,12 +66,48 @@ df_tab <- cbind(
     Nome = "str_to_title(df_estudantes$nome)"
   )
 
-knitr::kable(df_tab, caption = "Conjunto de dados de cada estudante com amostras de candidatos do ENEM 2022 para cidades do Brasil.")
+# inclusão de eduarda
+`%notin%`  <- \(x, y) !(x %in% y)
+df_estudantes_eduarda <- read_xlsx(glue("lista_frequencia_matd39.xlsx"))
+df_estudantes_eduarda <- df_estudantes_eduarda |>
+  filter(email %notin% df_estudantes$email)
+df_cidades_eduarda <- read_xlsx(glue("maiores-cidades-br.xlsx"))
+df_cidades_eduarda <- df_cidades_eduarda |>
+  filter(apelido %notin% df_cidades$apelido)
+df_cidades_eduarda <- sample_n(df_cidades_eduarda, nrow(df_estudantes_eduarda))
+
+col_csv <- seq_len(nrow(df_cidades_eduarda)) |>
+  map_chr(\(k) {
+    glue("[{df_cidades_eduarda$cidade[k]}]({df_cidades_eduarda$apelido[k]}.csv)")
+  })
+col_xlsx <- seq_len(nrow(df_cidades_eduarda)) |>
+  map_chr(\(k) {
+    glue("[{df_cidades_eduarda$cidade[k]}]({df_cidades_eduarda$apelido[k]}.xlsx)")
+  })
+
+df_tab_eduarda <- cbind(
+  df_cidades_eduarda |> select(-apelido),
+  col_csv, col_xlsx,
+  df_estudantes_eduarda$matricula,
+  df_estudantes_eduarda$nome |> str_to_title()
+) |>
+  rename(
+    Cidade = cidade, UF = estado,
+    "Arquivos .csv" = "col_csv",
+    "Arquivos .xlsx" = "col_xlsx",
+    Matricula = "df_estudantes_eduarda$matricula",
+    Nome = "str_to_title(df_estudantes_eduarda$nome)"
+  )
+
+df_tab_final <- rbind(
+  df_tab,
+  df_tab_eduarda
+) |>
+  arrange(Nome)
+
+# imprimindo a tabela na página
+knitr::kable(df_tab_final, caption = "Conjunto de dados de cada estudante com amostras de candidatos do ENEM 2022 para cidades do Brasil.")
 ```
-
-## Código das aula
-
-[aula do dia 23/08/2023](aula_2023_08_2023.zip)
 
 ## Primeiro dia de aula
 
