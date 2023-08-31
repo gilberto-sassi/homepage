@@ -24,9 +24,10 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 [Exploração e visualização de dados](exploracao-visualizacao.pdf){target="_blank"}<br>
 [`rmarkdown` e `quarto`](rmarkdown-quarto.pdf){target="_blank"}
 
-## Conjunto de dados
+## Código e _datasets_ da sala de aula
 
-[arquivos - Exploração e visualização de dados](arquivos.zip)
+[Aula no laboratório até o dia 31/08/2023](arquivos.zip){target="_blank"}<br>
+[Aula do dia 31/08/2023](https://docs.google.com/spreadsheets/d/15yqfrpXLJKrmu-RLDT8OWUBgH8PK1QRlv1wRjdrO8SQ/edit?usp=sharing){target="_blank"}
 
 ---
 
