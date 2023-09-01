@@ -103,9 +103,20 @@ df_tab_eduarda <- cbind(
     Nome = "str_to_title(df_estudantes_eduarda$nome)"
   )
 
+# inclusão de gilberto
+df_tab_gilberto <- tibble(
+  Cidade = "Salvador",
+  UF = "BA",
+  `Arquivos .csv` = "[Salvador](salvador.csv)",
+  `Arquivos .xlsx` = "[Salvador](salvador.xlsx)",
+  Matricula = 1297159,
+  Nome = "Gilberto Pereira Sassi"
+)
+
 df_tab_final <- rbind(
   df_tab,
-  df_tab_eduarda
+  df_tab_eduarda,
+  df_tab_gilberto
 ) |>
   arrange(Nome)
 
