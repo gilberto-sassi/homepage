@@ -34,7 +34,7 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 [`renda.R`](renda-2023-09-05.R)<br>
 [`atividade_semanal.R`](atividade_semanal-2023-09-05.R)
 
-asdf
+
 
 #### Gravação de parte da aula do dia 06/09/2023
 
