@@ -22,6 +22,10 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 
 [Primeiro dia de aula](primeiro-dia-mat223.pdf){target="_blank"}
 
+## Tabela da distribuição normal
+
+[Tabela da distribuição normal](tabela-z.pdf)
+
 ## Primeiro dia de aula
 
 O critério de avaliação, datas das provas e demais informações foram divulgadas no primeiro dia de aula. Estas informações estão nos slides usados, que você pode acessar pelo seguinte link: [primeiro dia de aula](primeiro-dia-mat223.pdf){target="_blank"}.
