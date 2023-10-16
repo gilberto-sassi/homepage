@@ -23,7 +23,7 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 [Primeiro dia de aula](primeiro-dia-matd39.pdf){target="_blank"}<br>
 [Exploração e visualização de dados](exploracao-visualizacao.pdf){target="_blank"}<br>
 [`rmarkdown` e `quarto`](rmarkdown-quarto.pdf){target="_blank"}<br>
-[Introdução à linguagem `R`](linguagem-r.pdf)
+[Introdução à linguagem `R`](linguagem-r.pdf){target="_blank"}
 
 ## Código
 
