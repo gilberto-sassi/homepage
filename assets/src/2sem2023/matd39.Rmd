@@ -25,6 +25,10 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 [`rmarkdown` e `quarto`](rmarkdown-quarto.pdf){target="_blank"}<br>
 [Introdução à linguagem `R`](linguagem-r.pdf){target="_blank"}
 
+## Conjunto de dados
+
+[Conjuntos de dados](conjunto_dados.zip)
+
 ## Código
 
 [Aula no laboratório até o dia 31/08/2023](arquivos.zip){target="_blank"}<br>
