@@ -33,12 +33,15 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 
 [Aula no laboratório até o dia 31/08/2023](arquivos.zip){target="_blank"}<br>
 [Aula do dia 31/08/2023](https://docs.google.com/spreadsheets/d/15yqfrpXLJKrmu-RLDT8OWUBgH8PK1QRlv1wRjdrO8SQ/edit?usp=sharing){target="_blank"}<br>
-[Aula do dia 14/09/2023](https://docs.google.com/spreadsheets/d/1Kpa5sFp0350MPFVsbrVYCfLRyq1ZT1fo3so5biFuizQ/edit?usp=sharing){target="_blank"}
+[Aula do dia 14/09/2023](https://docs.google.com/spreadsheets/d/1Kpa5sFp0350MPFVsbrVYCfLRyq1ZT1fo3so5biFuizQ/edit?usp=sharing){target="_blank"}<br>
+[Aula do dia 08/11/2023 (`rmarkdown` + `html`)](aula_dia_2023_11_08.zip)
 
 ### `codeshare.io`
 
 [Aula de segunda e quarta](https://codeshare.io/mpwBxb){target="_blank"}<br>
-[Aula de terça-feira](https://codeshare.io/DZON3r){target="_blank"}
+[Aula de terça-feira](https://codeshare.io/DZON3r){target="_blank"}<br>
+[Markdown + $\LaTeX$](https://codeshare.io/JboZzd){target="_blank"}<br>
+[Rmarkdown - `HTML`](https://codeshare.io/OdMwBx){target="_blank"}
 
 ### aula do dia 06/09/2023
 
