@@ -22,6 +22,10 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 
 [Primeiro dia de aula](primeiro-dia-mat223.pdf){target="_blank"}
 
+## Notas de aula
+
+[Fotos da lousa](https://docs.google.com/spreadsheets/d/146dsZ61IvzoK0DA49oCjxaLJdk_LYLEH1qNrrBOo_-w/edit?usp=sharing){target="_blank"}
+
 ## Tabela da distribuição normal
 
 [Tabela da distribuição normal](tabela-z.pdf)
