@@ -1,5 +1,10 @@
-library(quarto)
-library(tidyverse)
+if (!require(pacman)) {
+    install.packages("pacman")
+    library(pacman)
+}
+
+p_load(quarto)
+p_load(tidyverse)
 
 renderizar <- function(input, output_dir) {
     quarto::quarto_render(input)
