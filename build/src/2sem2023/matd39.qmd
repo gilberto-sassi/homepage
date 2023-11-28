@@ -2,12 +2,15 @@
 title: Análise Descritiva e Exploratória de Dados A - MATD39
 author: Gilberto Pereira Sassi
 date: Segundo semestre de 2023
-output:
-  html_document:
-    theme: readable
-    highlight: kate
+lang: pt-BR
+format:
+  html:
+    theme: simplex
+    highlight-style: kate
+    embed-resources: true
+    anchor-sections: true
     toc: true
-    toc_float: true
+    toc-location: left
 ---
 
 ## Cronograma
@@ -48,7 +51,18 @@ Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_.
 [`renda.R`](renda-2023-09-05.R)<br>
 [`atividade_semanal.R`](atividade_semanal-2023-09-05.R)
 
-#### Gravação de parte da aula do dia 06/09/2023
+### Quarto ([**`codeshare.io`**](https://codeshare.io/){target="_blank"})
+
+Abaixo estão listados o código para produzir documento usando [quarto.org](https://quarto.org/){target="_blank"}:
+
+* [`pdf`](https://gist.github.com/gilberto-sassi/e9642d62c42531de212187258bc078a6){target="_blank"}
+* [`html`](https://gist.github.com/gilberto-sassi/050ed601f35ce988ad02d82572e38586){target="_blank"}
+* [`apresentação beamer`](https://gist.github.com/gilberto-sassi/58b5f3adbbe7b9bd160100d8e8f02854){target="_blank"}
+
+Matriz de modelos e cores: [matriz de estilo para `beamer`](https://mpetroff.net/files/beamer-theme-matrix/){target="_blank"}.
+
+
+### Gravação de parte da aula do dia 06/09/2023
 
 Nesta gravação, mostro como trabalhar com a variável `q006` do conjunto de dados do ENEM na edição de 2022.
 

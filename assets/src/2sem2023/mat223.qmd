@@ -1,13 +1,16 @@
 ---
 title: Probabilidade I - MAT223
 author: Gilberto Pereira Sassi
+lang: pt-BR
 date: Segundo semestre de 2023
-output:
-  html_document:
-    theme: readable
-    highlight: kate
+format:
+  html:
+    theme: simplex
+    highlight-style: kate
+    embed-resources: true
+    anchor-sections: true
     toc: true
-    toc_float: true
+    toc-location: left
 ---
 
 ## Cronograma
@@ -41,6 +44,7 @@ O critério de avaliação, datas das provas e demais informações foram divulg
 ## Notas da primeira prova
 
 [Notas - primira prova - com segunda chamada](https://docs.google.com/spreadsheets/d/1Si1k_8on4CGPC0IVgo6F-v5LtnX7Li8i374uyxeF7zU/edit?usp=sharing){target="_blank"}
+
 
 ## Lista de exercícios
 
