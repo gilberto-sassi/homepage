@@ -67,7 +67,7 @@ Matriz de modelos e cores: [matriz de estilo para `beamer`](https://mpetroff.net
 
 Nesta gravação, mostro como trabalhar com a variável `q006` do conjunto de dados do ENEM na edição de 2022.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8Twlxp8kMs?si=l7OcnmEKXwjqwZoX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< video https://youtu.be/Q8Twlxp8kMs?si=8w9JmhjePbAcW5hq >}}
 
 ---
 
