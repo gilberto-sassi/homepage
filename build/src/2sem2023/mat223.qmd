@@ -22,6 +22,10 @@ format:
 
 Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_. Entre no servidor usando o seguinte link: [estatísticos](https://discord.gg/48u3s5JcrA).
 
+## Notas finais
+
+[Notas finais (atualizado dia 07/12/2023)](https://docs.google.com/spreadsheets/d/1jMHeuncPMrZwcOZdxoY_wjMOApaSkOSagL8_5JUVTY8/edit?usp=sharing){target="_blank"}
+
 ## Slides
 
 [Primeiro dia de aula](primeiro-dia-mat223.pdf){target="_blank"}
