@@ -18,6 +18,10 @@ format:
 
 [Cronograma - Análise Descritiva e Exploratória de Dados A - MATD39](cronograma-matd39.xlsx)
 
+## Notas 
+
+[Notas finais (atualizado no dia 07/12/2023)](https://docs.google.com/spreadsheets/d/1hiLlToDZAHwBLM2yDY1PhQHuf1j-SmHv3faQ6cWcCXo/edit?usp=sharing){target="_blank"}
+
 ## Servidor no discord
 
 Toda a nossa comunicação será realizada pelo discord chamado _estatísticos_. Entre no servidor usando o seguinte link: [estatísticos](https://discord.gg/48u3s5JcrA).
