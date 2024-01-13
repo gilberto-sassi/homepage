@@ -20,6 +20,7 @@ format:
 
 ## Slides
 
+[Apresentação da disciplina](primeiro-dia-mat020.pdf){target="_blank"}<br>
 [Introdução à linguagem `R`](linguagem-r.pdf){target="_blank"}<br>
 [Estatística descritiva - Tabelas e gráficos](graficos.pdf){target="_blank"}<br>
 [Estatística descritiva - medidas de resumo](medidasResumo.pdf){target="_blank"}<br>
