@@ -1,0 +1,31 @@
+---
+title: Estatística I - C
+author: Gilberto Pereira Sassi
+date: "2023/03/04"
+date-format: "[Primeiro semestre de] YYYY"
+lang: pt-BR
+format:
+  html:
+    theme: simplex
+    highlight-style: kate
+    embed-resources: true
+    anchor-sections: true
+    toc: true
+    toc-location: left
+---
+
+## Cronograma
+
+[Cronograma](https://docs.google.com/spreadsheets/d/1aVHXzWIiA9eFzstYzUdiP3x3X8EJDsAtYXqnPSJfReY/edit?usp=sharing){target="_blank"}
+
+## Slides
+
+[Introdução à linguagem `R`](linguagem-r.pdf){target="_blank"}<br>
+[Exploração e visualização de dados](exploracao-visualizacao.pdf)
+
+## Referências
+
+[`R` para ciência de dados](https://r4ds.hadley.nz/){target="_blank"}<br>
+[Estatística aplicada às ciências sociais](estatistica-aplicada-barbetta.pdf){target="_blank"}<br>
+[Estatística básica](estatistica-basica-bussab-morettin.pdf){target="_blank"}<br>
+[Applied statistics and probability for engineers](applied-statistics-montgomery.pdf){target="_blank"}

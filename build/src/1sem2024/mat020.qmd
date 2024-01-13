@@ -1,0 +1,44 @@
+---
+title: Estatística I - A 
+author: Gilberto Pereira Sassi
+lang: pt-BR
+date: "2023/03/04"
+date-format: "[Primeiro semestre de] YYYY"
+format:
+  html:
+    theme: simplex
+    highlight-style: kate
+    embed-resources: true
+    anchor-sections: true
+    toc: true
+    toc-location: left
+---
+
+## Cronograma
+
+[Cronograma](https://docs.google.com/spreadsheets/d/1uK26q5vcR6l8ec9AIk2KvEBdlMW-6hrgmmPEDuSd_ig/edit?usp=sharing){target="_blank"}
+
+## Slides
+
+[Introdução à linguagem `R`](linguagem-r.pdf){target="_blank"}<br>
+[Estatística descritiva - Tabelas e gráficos](graficos.pdf){target="_blank"}<br>
+[Estatística descritiva - medidas de resumo](medidasResumo.pdf){target="_blank"}<br>
+[Probabilidade](introProb.pdf){target="_blank"}<br>
+[Variável aleatória discreta](varDiscreta.pdf){target="_blank"}<br>
+[Variável aleatória contínua](varContinua.pdf){target="_blank"}
+
+### Tabela de distribuição de frequências
+
+[Tabela da distribuição normal padrão](tabela-z.pdf){target="_blank"}
+
+## Listas de exercícios
+
+[Estatística descritiva](lista_est_descr.pdf){target="_blank"}<br>
+[Probabilidade e variável aleatória](lista_prob.pdf){target="_blank"}
+
+## Referências
+
+[`R` para ciência de dados](https://r4ds.hadley.nz/){target="_blank"}<br>
+[Estatística aplicada às ciências sociais](estatistica-aplicada-barbetta.pdf){target="_blank"}<br>
+[Estatística básica](estatistica-basica-bussab-morettin.pdf){target="_blank"}<br>
+[Applied statistics and probability for engineers](applied-statistics-montgomery.pdf){target="_blank"}
