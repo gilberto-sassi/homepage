@@ -37,6 +37,12 @@ format:
 [Estatística descritiva](lista_est_descr.pdf){target="_blank"}<br>
 [Probabilidade e variável aleatória](lista_prob.pdf){target="_blank"}
 
+## Frequência
+
+**A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**
+
+[Número de faltas](https://docs.google.com/spreadsheets/d/1g9PVr3jfIXWj9spDFQ0ZOJMQSALNVXLjV4JWCvMPiRY/edit?usp=sharing){target="_blank"}
+
 ## Referências
 
 [`R` para ciência de dados](https://r4ds.hadley.nz/){target="_blank"}<br>

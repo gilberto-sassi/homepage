@@ -24,6 +24,12 @@ format:
 [Introdução à linguagem `R`](linguagem-r.pdf){target="_blank"}<br>
 [Exploração e visualização de dados](exploracao-visualizacao.pdf)
 
+## Frequência
+
+**A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**
+
+[Número de faltas](https://docs.google.com/spreadsheets/d/1soPQoQYdyZtDtuLB_Vr_u3fuQjCdMPuK0j_MIU-msA0/edit?usp=sharing){target="_blank"}
+
 ## Referências
 
 [`R` para ciência de dados](https://r4ds.hadley.nz/){target="_blank"}<br>
