@@ -24,6 +24,11 @@ format:
 [Introdução à linguagem `R`](linguagem-r.pdf){target="_blank"}<br>
 [Exploração e visualização de dados](exploracao-visualizacao.pdf)
 
+## Código da sala de aula
+
+Link com todos os códigos da sala de aula: [codeshare.io/r4437A](https://codeshare.io/r4437A){target="_blank"}. <br>
+**Não apague, e não modifique este arquivo!**
+
 ## Frequência
 
 **A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**

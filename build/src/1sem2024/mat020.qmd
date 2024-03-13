@@ -32,6 +32,11 @@ format:
 
 [Tabela da distribuição normal padrão](tabela-z.pdf){target="_blank"}
 
+## Código da sala de aula
+
+Link com todos os códigos da sala de aula: [codeshare.io/DAAezr](https://codeshare.io/DAAezr){target="_blank"}. <br>
+**Não apague, e não modifique este arquivo!**
+
 ## Listas de exercícios
 
 [Estatística descritiva](lista_est_descr.pdf){target="_blank"}<br>
