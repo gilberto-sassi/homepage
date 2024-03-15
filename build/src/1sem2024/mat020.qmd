@@ -37,6 +37,24 @@ format:
 Link com todos os códigos da sala de aula: [codeshare.io/DAAezr](https://codeshare.io/DAAezr){target="_blank"}. <br>
 **Não apague, e não modifique este arquivo!**
 
+## Dados
+
+[amostra_enem_salvador.xlsx](amostra_enem_salvador.xlsx)<br>
+[casas.xlsx](casas.xlsx)<br>
+[companhia_MB.xlsx](companhia_MB.xlsx)<br>
+[crescimento_dentes.ods](crescimento_dentes.ods)<br>
+[dados_leitura.csv](dados_leitura.csv)<br>
+[dados_leitura.ods](dados_leitura.ods)<br>
+[dados_leitura.xlsx](dados_leitura.xlsx)<br>
+[escola_a.xlsx](escola_a.xlsx)<br>
+[escola_b.xlsx](escola_b.xlsx)<br>
+[escola_c.xlsx](escola_c.xlsx)<br>
+[iris.xlsx](iris.xlsx)<br>
+[menstruacao.csv](menstruacao.csv)<br>
+[mtcarros.csv](mtcarros.csv)<br>
+[psicologia.csv](psicologia.csv)
+
+
 ## Listas de exercícios
 
 [Estatística descritiva](lista_est_descr.pdf){target="_blank"}<br>
