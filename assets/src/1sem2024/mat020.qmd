@@ -2,7 +2,7 @@
 title: Estatística I - A 
 author: Gilberto Pereira Sassi
 lang: pt-BR
-date: "2023/03/04"
+date: "2024/03/04"
 date-format: "[Primeiro semestre de] YYYY"
 format:
   html:
