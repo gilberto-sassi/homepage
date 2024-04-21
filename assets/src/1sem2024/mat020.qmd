@@ -40,6 +40,7 @@ Link com todos os códigos da sala de aula: [codeshare.io/DAAezr](https://codesh
 ## Dados
 
 [amostra_enem_salvador.xlsx](amostra_enem_salvador.xlsx)<br>
+[dicionario_amostra_enem_salvador.xlsx](dicionario_enem_2022.xlsx)<br>
 [casas.xlsx](casas.xlsx)<br>
 [companhia_MB.xlsx](companhia_MB.xlsx)<br>
 [crescimento_dentes.ods](crescimento_dentes.ods)<br>
@@ -52,7 +53,8 @@ Link com todos os códigos da sala de aula: [codeshare.io/DAAezr](https://codesh
 [iris.xlsx](iris.xlsx)<br>
 [menstruacao.csv](menstruacao.csv)<br>
 [mtcarros.csv](mtcarros.csv)<br>
-[psicologia.csv](psicologia.csv)
+[psicologia.csv](psicologia.csv)<br>
+[motivacao_dispersao.xlsx](motivacao_dispersao.xlsx)
 
 
 ## Listas de exercícios
