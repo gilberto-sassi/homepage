@@ -46,7 +46,7 @@ format:
 
 ## Código da sala de aula
 
-Link com todos os códigos da sala de aula: [codeshare.io/r4437A](https://codeshare.io/r4437A){target="_blank"}. <br>
+Link com todos os códigos da sala de aula: [collabedit.com/fkjpv](https://collabedit.com/fkjpv){target="_blank"}. <br>
 **Não apague, e não modifique este arquivo!**
 
 ## Frequência
