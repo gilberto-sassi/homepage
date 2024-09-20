@@ -1,0 +1,75 @@
+---
+title: Estatística I - A 
+author: Gilberto Pereira Sassi
+lang: pt-BR
+date: "2024/09/30"
+date-format: "[Segundo semestre de] YYYY"
+format:
+  html:
+    theme: simplex
+    highlight-style: kate
+    embed-resources: true
+    anchor-sections: true
+    toc: true
+    toc-location: left
+---
+
+## Cronograma
+
+[Cronograma](https://docs.google.com/spreadsheets/d/1LCwWea5Pk7HwLe1DcmKDAMJuKQCaV6iLuJSIqdo-GNs/edit?usp=sharing){target="_blank"}
+
+## Slides
+
+[Apresentação da disciplina](primeiro-dia-mat020.pdf){target="_blank"}<br>
+[Introdução à linguagem `R`](linguagem-r.pdf){target="_blank"}<br>
+[Estatística descritiva - Tabelas e gráficos](graficos.pdf){target="_blank"}<br>
+[Estatística descritiva - medidas de resumo](medidasResumo.pdf){target="_blank"}<br>
+[Probabilidade](introProb.pdf){target="_blank"}<br>
+[Variável aleatória discreta](varDiscreta.pdf){target="_blank"}<br>
+[Variável aleatória contínua](varContinua.pdf){target="_blank"}
+
+### Tabela de distribuição de frequências
+
+[Tabela da distribuição normal padrão](tabela-z.pdf){target="_blank"}
+
+## Código da sala de aula
+
+Link com todos os códigos da sala de aula: [codeshare.io/w93d4J](https://codeshare.io/w93d4J){target="_blank"}. <br>
+**Não apague, e não modifique este arquivo!**
+
+## Dados
+
+[amostra_enem_salvador.xlsx](amostra_enem_salvador.xlsx)<br>
+[dicionario_amostra_enem_salvador.xlsx](dicionario_enem_2023.xlsx)<br>
+[casas.xlsx](casas.xlsx)<br>
+[companhia_MB.xlsx](companhia_MB.xlsx)<br>
+[crescimento_dentes.ods](crescimento_dentes.ods)<br>
+[dados_leitura.csv](dados_leitura.csv)<br>
+[dados_leitura.ods](dados_leitura.ods)<br>
+[dados_leitura.xlsx](dados_leitura.xlsx)<br>
+[escola_a.xlsx](escola_a.xlsx)<br>
+[escola_b.xlsx](escola_b.xlsx)<br>
+[escola_c.xlsx](escola_c.xlsx)<br>
+[iris.xlsx](iris.xlsx)<br>
+[menstruacao.csv](menstruacao.csv)<br>
+[mtcarros.csv](mtcarros.csv)<br>
+[psicologia.csv](psicologia.csv)<br>
+[motivacao_dispersao.xlsx](motivacao_dispersao.xlsx)
+
+
+## Listas de exercícios
+
+[Estatística descritiva](lista_est_descr.pdf){target="_blank"}<br>
+[Probabilidade e variável aleatória](lista_prob.pdf){target="_blank"}
+
+## Frequência
+
+**A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**
+
+
+## Referências
+
+[`R` para ciência de dados](https://r4ds.hadley.nz/){target="_blank"}<br>
+[Estatística aplicada às ciências sociais](estatistica-aplicada-barbetta.pdf){target="_blank"}<br>
+[Estatística básica](estatistica-basica-bussab-morettin.pdf){target="_blank"}<br>
+[Applied statistics and probability for engineers](applied-statistics-montgomery.pdf){target="_blank"}
