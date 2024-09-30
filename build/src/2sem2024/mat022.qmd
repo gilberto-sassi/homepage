@@ -46,7 +46,7 @@ format:
 
 ## Código da sala de aula
 
-Link com todos os códigos da sala de aula: [codeshare.io/8XVy7j](https://codeshare.io/8XVy7j){target="_blank"}. <br>
+Link com todos os códigos da sala de aula: [collabedit.com/tawf2](https://collabedit.com/tawf2){target="_blank"}. <br>
 **Não apague, e não modifique este arquivo!**
 
 ## Frequência

@@ -34,7 +34,7 @@ format:
 
 ## Código da sala de aula
 
-Link com todos os códigos da sala de aula: [codeshare.io/w93d4J](https://codeshare.io/w93d4J){target="_blank"}. <br>
+Link com todos os códigos da sala de aula: [collabedit.com/7h8da](https://collabedit.com/7h8da){target="_blank"}. <br>
 **Não apague, e não modifique este arquivo!**
 
 ## Dados
