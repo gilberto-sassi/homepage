@@ -68,6 +68,10 @@ Link com todos os códigos da sala de aula: [dontpad.com/mat020_2sem2024](https:
 
 [Número de faltas](https://docs.google.com/spreadsheets/d/1NM9NvajcMjgHlB7WxF-QAgEa9GhfrwcuVGbsmHfIGFI/edit?usp=sharing){target="_blank"}
 
+## Resultado final
+
+[Resultado final incluindo número de faltas e nota final](https://docs.google.com/spreadsheets/d/1e1kjfDQKep8f886lO50V0qEbzlZOYiPas-Nl2wJVzoA/edit?usp=sharing){target="_blank"}
+
 ## Referências
 
 [`R` para ciência de dados](https://r4ds.hadley.nz/){target="_blank"}<br>
