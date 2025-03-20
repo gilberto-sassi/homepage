@@ -20,6 +20,7 @@ format:
 
 ## Slides
 
+[Primeiro dia de aula](primeiro-dia-mat236.pdf)<br>
 [Gráficos](graficos.pdf){target="_blank"}<br>
 [Medidas de resumo](medidasResumo.pdf){target="_blank"}<br>
 [Probabilidade](introProb.pdf){target="_blank"}<br>
