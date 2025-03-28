@@ -75,11 +75,6 @@ Link com todos os códigos da sala de aula: [`mat236.ipynb`](https://colab.resea
 [psicologia.csv](psicologia.csv)<br>
 [motivacao_dispersao.xlsx](motivacao_dispersao.xlsx)
 
-
-## Listas de exercícios
-
-Em breve.
-
 ## Frequência
 
 **A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**
