@@ -76,6 +76,8 @@ format:
 Link com todos os códigos da sala de aula: [`mata44.ipynb`](https://colab.research.google.com/drive/1egQv34-UhlSUYWnaekp5sYO5G878VZPi?usp=drive_link){target="_blank"}. <br>
 **Não apague, e não modifique este arquivo!**
 
+[Pasta no `google drive` com planilhas google - apenas leitura.](https://drive.google.com/drive/folders/1ixaP04f9PbmWQ1_Bolu8eRRMWgffQmTc?usp=sharing){target="_blank"}.
+
 ## Frequência
 
 **A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**

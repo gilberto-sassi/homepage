@@ -53,8 +53,10 @@ format:
 
 ## Código da sala de aula
 
-Link com todos os códigos da sala de aula: [`mat236.ipynb`](https://colab.research.google.com/drive/1At_RzgOUm1-_xW1ev_fC3QwuYKfQsP4f?usp=sharing). <br>
+Link com todos os códigos da sala de aula: [`mat236.ipynb`](https://colab.research.google.com/drive/1At_RzgOUm1-_xW1ev_fC3QwuYKfQsP4f?usp=sharing){target="_blank"}. <br>
 **Não apague, e não modifique este arquivo!**
+
+[Pasta no `google drive` com planilhas google - apenas leitura.](https://drive.google.com/drive/folders/1GG2X985ByF_Zc0E0fJjfOl1Cn5CEoIIW?usp=sharing){target="_blank"}.
 
 ## Dados
 
