@@ -77,6 +77,50 @@ Link com todos os códigos da sala de aula: [`mat236.ipynb`](https://colab.resea
 [psicologia.csv](psicologia.csv)<br>
 [motivacao_dispersao.xlsx](motivacao_dispersao.xlsx)
 
+## Reposição de aula
+
+### Slides
+
+[Slides da aula de reposição](slides.html){target="_blank"}
+
+### Conjunto de dados
+
+[`arquivos.zip`](arquivos.zip)
+
+#### Enem 2023
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+if (!require(pacman)) install.packages('pacman')
+library(pacman)
+p_load(
+  glue, tidyverse
+)
+
+# base <- 'assets/src/1sem2025/'
+base <- ''
+mat236 <- read_csv(glue('{base}mat236.csv'))
+mat236 <- mat236 |>
+  select(nome, matricula)
+
+arquivos <- glue("amostra_{1:nrow(mat236)}.csv")
+
+mat236 <- mat236 |>
+  mutate(
+    dataset = arquivos |>
+      map_chr(\(arquivo) {
+        glue("[{arquivo}]({base}amostra_5k/csv/{arquivo})")
+      })
+  )
+
+knitr::kable(
+  mat236, 
+  caption = "Amostra com 5 mil pessoas que realizaram o Enem 2023. Cada estudante tem sua própria amostra."
+)
+```
+
 ## Frequência
 
 **A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**

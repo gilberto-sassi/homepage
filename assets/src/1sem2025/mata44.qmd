@@ -78,6 +78,51 @@ Link com todos os códigos da sala de aula: [`mata44.ipynb`](https://colab.resea
 
 [Pasta no `google drive` com planilhas google - apenas leitura.](https://drive.google.com/drive/folders/1ixaP04f9PbmWQ1_Bolu8eRRMWgffQmTc?usp=sharing){target="_blank"}.
 
+## Reposição de aula
+
+### Slides
+
+[Slides da aula de reposição](slides.html){target="_blank"}
+
+### Conjunto de dados
+
+[`arquivos.zip`](arquivos.zip)
+
+#### Enem 2023
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+if (!require(pacman)) install.packages('pacman')
+library(pacman)
+p_load(
+  glue, tidyverse
+)
+
+# base <- 'assets/src/1sem2025/'
+base <- ''
+mata44 <- read_csv(glue('{base}mata44.csv'))
+mata44 <- mata44 |>
+  select(nome, matricula)
+
+arquivos <- glue("amostra_{1:nrow(mata44)}.csv")
+
+mata44 <- mata44 |>
+  mutate(
+    dataset = arquivos |>
+      map_chr(\(arquivo) {
+        glue("[{arquivo}]({base}amostra_5k/csv/{arquivo})")
+      })
+  )
+
+knitr::kable(
+  mata44, 
+  caption = "Amostra com 5 mil pessoas que realizaram o Enem 2023. Cada estudante tem sua própria amostra."
+)
+```
+
+
 ## Frequência
 
 **A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**
