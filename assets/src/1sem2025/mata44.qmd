@@ -71,14 +71,14 @@ format:
 [motivacao_dispersao.xlsx](motivacao_dispersao.xlsx)
 
 
-## Código da sala de aula
-
-Link com todos os códigos da sala de aula: [`mata44.ipynb`](https://colab.research.google.com/drive/1egQv34-UhlSUYWnaekp5sYO5G878VZPi?usp=drive_link){target="_blank"}. <br>
-**Não apague, e não modifique este arquivo!**
-
-[Pasta no `google drive` com planilhas google - apenas leitura.](https://drive.google.com/drive/folders/1ixaP04f9PbmWQ1_Bolu8eRRMWgffQmTc?usp=sharing){target="_blank"}.
-
 ## Reposição de aula
+
+### Gravação da aula do dia 10/05/2025
+
+{{< video https://youtu.be/B8Doz_M7Ciw
+    title="What is the CERN?"
+    aspect-ratio="21x9" 
+>}}
 
 ### Slides
 
@@ -123,6 +123,12 @@ knitr::kable(
 )
 ```
 
+## Código da sala de aula
+
+Link com todos os códigos da sala de aula: [`mata44.ipynb`](https://colab.research.google.com/drive/1egQv34-UhlSUYWnaekp5sYO5G878VZPi?usp=drive_link){target="_blank"}. <br>
+**Não apague, e não modifique este arquivo!**
+
+[Pasta no `google drive` com planilhas google - apenas leitura.](https://drive.google.com/drive/folders/1ixaP04f9PbmWQ1_Bolu8eRRMWgffQmTc?usp=sharing){target="_blank"}.
 
 ## Frequência
 

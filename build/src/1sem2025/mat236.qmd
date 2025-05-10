@@ -51,13 +51,6 @@ format:
 [Tabela da distribuição de Kolmogorov-Smirnov D](tabela-X.pdf)<br>
 [Tabela da distribuição da distribuição F.](tabela-F.pdf)
 
-## Código da sala de aula
-
-Link com todos os códigos da sala de aula: [`mat236.ipynb`](https://colab.research.google.com/drive/1At_RzgOUm1-_xW1ev_fC3QwuYKfQsP4f?usp=sharing){target="_blank"}. <br>
-**Não apague, e não modifique este arquivo!**
-
-[Pasta no `google drive` com planilhas google - apenas leitura.](https://drive.google.com/drive/folders/1GG2X985ByF_Zc0E0fJjfOl1Cn5CEoIIW?usp=sharing){target="_blank"}.
-
 ## Dados
 
 [amostra_enem_salvador.xlsx](amostra_enem_salvador.xlsx)<br>
@@ -78,6 +71,13 @@ Link com todos os códigos da sala de aula: [`mat236.ipynb`](https://colab.resea
 [motivacao_dispersao.xlsx](motivacao_dispersao.xlsx)
 
 ## Reposição de aula
+
+### Gravação da aula do dia 10/05/2025
+
+{{< video https://youtu.be/B8Doz_M7Ciw
+    title="What is the CERN?"
+    aspect-ratio="21x9" 
+>}}
 
 ### Slides
 
@@ -122,6 +122,13 @@ knitr::kable(
   caption = "Amostra com 5 mil pessoas que realizaram o Enem 2023. Cada estudante tem sua própria amostra."
 )
 ```
+
+## Código da sala de aula
+
+Link com todos os códigos da sala de aula: [`mat236.ipynb`](https://colab.research.google.com/drive/1At_RzgOUm1-_xW1ev_fC3QwuYKfQsP4f?usp=sharing){target="_blank"}. <br>
+**Não apague, e não modifique este arquivo!**
+
+[Pasta no `google drive` com planilhas google - apenas leitura.](https://drive.google.com/drive/folders/1GG2X985ByF_Zc0E0fJjfOl1Cn5CEoIIW?usp=sharing){target="_blank"}.
 
 ## Frequência
 
