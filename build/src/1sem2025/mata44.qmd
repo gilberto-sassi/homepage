@@ -86,7 +86,8 @@ Link com todos os códigos da sala de aula: [`mata44.ipynb`](https://colab.resea
 
 ### Conjunto de dados
 
-[`arquivos.zip`](arquivos.zip)
+* [iris.xlsx](iris.xlsx)
+* [mtcarros.csv](mtcarros.csv)
 
 #### Enem 2023
 

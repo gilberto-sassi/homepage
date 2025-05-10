@@ -83,9 +83,11 @@ Link com todos os códigos da sala de aula: [`mat236.ipynb`](https://colab.resea
 
 [Slides da aula de reposição](slides.html){target="_blank"}
 
+
 ### Conjunto de dados
 
-[`arquivos.zip`](arquivos.zip)
+* [iris.xlsx](iris.xlsx)
+* [mtcarros.csv](mtcarros.csv)
 
 #### Enem 2023
 
