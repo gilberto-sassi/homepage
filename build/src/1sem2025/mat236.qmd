@@ -75,7 +75,14 @@ format:
 ### Gravação da aula do dia 10/05/2025
 
 {{< video https://youtu.be/B8Doz_M7Ciw
-    title="What is the CERN?"
+    title="Gravação da aula do dia 10/05/2025"
+    aspect-ratio="21x9" 
+>}}
+
+### Gravação da aula do dia 24/05/2025
+
+{{< video https://youtu.be/1ZHV4yq5yR8
+    title="Gravação da aula do dia 24/05/2025"
     aspect-ratio="21x9" 
 >}}
 
@@ -107,11 +114,16 @@ mat236 <- read_csv(glue('{base}mat236.csv'))
 mat236 <- mat236 |>
   select(nome, matricula)
 
-arquivos <- glue("amostra_{1:nrow(mat236)}.csv")
+csv <- glue("amostra_{1:nrow(mat236)}.csv")
+xlsx <- glue("amostra_{1:nrow(mat236)}.xlsx")
 
 mat236 <- mat236 |>
   mutate(
-    dataset = arquivos |>
+    csv = csv |>
+      map_chr(\(arquivo) {
+        glue("[{arquivo}]({base}amostra_5k/csv/{arquivo})")
+      }),
+    xlsx = xlsx |>
       map_chr(\(arquivo) {
         glue("[{arquivo}]({base}amostra_5k/csv/{arquivo})")
       })
