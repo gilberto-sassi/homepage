@@ -86,6 +86,14 @@ format:
     aspect-ratio="21x9" 
 >}}
 
+### Gravação da aula do dia 31/05/2025
+
+{{< video https://youtu.be/y0uZk5cCaF8
+    title="Gravação da aula do dia 3124/05/2025"
+    aspect-ratio="21x9" 
+>}}
+
+
 ### Slides
 
 [Slides da aula de reposição](slides.html){target="_blank"}
