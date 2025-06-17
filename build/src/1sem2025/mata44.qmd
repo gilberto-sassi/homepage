@@ -38,8 +38,8 @@ format:
 [Lista - estatística descritiva](lista_est_descr.pdf){target="_blank"}<br>
 [Lista - probabilidade](lista_prob.pdf){target="_blank"}<br>
 [Lista - intervalo de confiança para uma população](lista-ex-ic.pdf){target="_blank"}<br>
-[Lista - teste de hipóteses para uma população](lista-teste-1-pop.pdf){target="_blank"}<br>
-[Lista - teste de hipóteses para duas populações](lista-teste-2-pop.pdf){target="_blank"}<br>
+[Lista - teste de hipóteses para uma população](lista-test-1-pop.pdf){target="_blank"}<br>
+[Lista - teste de hipóteses para duas populações](lista-test-2-pop.pdf){target="_blank"}<br>
 [Lista - regressão linear simples](regressao-linear-simples.pdf){target="_blank"}<br>
 [Lista - ANOVA](anova.pdf){target="_blank"}
 
