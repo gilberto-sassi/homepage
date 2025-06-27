@@ -156,6 +156,14 @@ Link com todos os códigos da sala de aula: [`mat236.ipynb`](https://colab.resea
 
 [Número de faltas por matrícula](https://docs.google.com/spreadsheets/d/1bHDxC1HFv58qlffcQCnJ-zsn7fmfWiGlhgnAFGoyELs/edit?usp=sharing){target="_blank"}
 
+## Pontuação extra
+
+Pontuação as pessoas que assistiram pelo menos 32400 segundos (75% das três aulas).
+
+Essa contagem foi feita usando o _log_ da plataforma _Big Blue Button_. Tentei associar os nomes e matrículas com as informações no SIAC. Isso foi feito parcialmente manual. Quem tiver dúvida, me procure no telegram.
+
+[Pontuação extra.](https://docs.google.com/spreadsheets/d/1G1LkoEp4w4alMVddgNuB72qJUV1dck5RmHB8kbW-t-U/edit?usp=sharing){target="_blank"}
+
 ## Referências
 
 [`R` para ciência de dados](https://r4ds.hadley.nz/){target="_blank"}<br>
