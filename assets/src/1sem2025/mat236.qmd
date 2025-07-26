@@ -168,6 +168,10 @@ Essa contagem foi feita usando o _log_ da plataforma _Big Blue Button_. Tentei a
 
 [Notas de concluintes](https://docs.google.com/spreadsheets/d/11lsTrroRKfajTCywMdXbK2lIItTGQmQQPo20lpQsYzU/edit?usp=sharing){target="_blank"}
 
+## Notas - todas as pessoas
+
+[Nota final - SIAC](https://docs.google.com/spreadsheets/d/1G6JEasrgvOPP1dzUATw9Q4NJSS8jZPn6tQbMZ9v_ZO8/edit?usp=sharing){target="_blank"}
+
 ## Referências
 
 [`R` para ciência de dados](https://r4ds.hadley.nz/){target="_blank"}<br>
