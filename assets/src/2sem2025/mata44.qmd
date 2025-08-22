@@ -1,0 +1,89 @@
+---
+title: Estatística V
+author: Gilberto Pereira Sassi
+date: "2024/08/22"
+date-format: "[Segundo semestre de] YYYY"
+lang: pt-BR
+format:
+  html:
+    theme: simplex
+    highlight-style: kate
+    embed-resources: true
+    anchor-sections: true
+    toc: true
+    toc-location: left
+---
+
+## Cronograma
+
+[Cronograma](https://docs.google.com/spreadsheets/d/13YdqfN1X6jfqwSwO1mpokTNaV5LDasL57Hq2cvEF6As/edit?usp=sharing){target="_blank"}
+
+## Slides
+
+[Primeiro dia de aula](primeiro-dia-mata44.pdf)<br>
+[Gráficos](graficos.pdf){target="_blank"}<br>
+[Medidas de resumo](medidasResumo.pdf){target="_blank"}<br>
+[Probabilidade](introProb.pdf){target="_blank"}<br>
+[Variável aleatória discreta](varDiscreta.pdf){target="_blank"}<br>
+[Variável aleatória contínua](varContinua.pdf){target="_blank"}<br>
+[Intervalo de confiança para uma população](intervaloConfianca.pdf){target="_blank"}<br>
+[Teste de hipóteses para uma população](testeHipoteses.pdf){target="_blank"}<br>
+[Teste de hipóteses para duas populações](testeHipoteses2pop.pdf){target="_blank"}<br>
+[Regressão linear simples](regressao-linear-simples.pdf){target="_blank"}<br>
+[Teste de normalidade](normalidade.pdf){target="_blank"}<br>
+[ANOVA](anova.pdf){target="_blank"}
+
+## Lista de exercícios
+
+[Lista - estatística descritiva](lista_est_descr.pdf){target="_blank"}<br>
+[Lista - probabilidade](lista_prob.pdf){target="_blank"}<br>
+[Lista - intervalo de confiança para uma população](lista-ex-ic.pdf){target="_blank"}<br>
+[Lista - teste de hipóteses para uma população](lista-test-1-pop.pdf){target="_blank"}<br>
+[Lista - teste de hipóteses para duas populações](lista-test-2-pop.pdf){target="_blank"}<br>
+[Lista - regressão linear simples](regressao-linear-simples.pdf){target="_blank"}<br>
+[Lista - ANOVA](anova.pdf){target="_blank"}
+
+### Tabela de distribuição de frequências
+
+[Tabela da distribuição normal padrão](tabela-z.pdf){target="_blank"}<br>
+[Tabela da distribuição Qui-quadrado](tabela-chi-square.pdf)<br>
+[Tabela da distribuição t-Student](tabela-t-student.pdf)<br>
+[Tabela da distribuição de Kolmogorov-Smirnov D](tabela-X.pdf)<br>
+[Tabela da distribuição da distribuição F.](tabela-F.pdf)
+
+## Dados
+
+[amostra_enem_salvador.xlsx](amostra_enem_salvador.xlsx)<br>
+[dicionario_amostra_enem_salvador.xlsx](dicionario_enem_2023.xlsx)<br>
+[casas.xlsx](casas.xlsx)<br>
+[companhia_MB.xlsx](companhia_MB.xlsx)<br>
+[crescimento_dentes.ods](crescimento_dentes.ods)<br>
+[dados_leitura.csv](dados_leitura.csv)<br>
+[dados_leitura.ods](dados_leitura.ods)<br>
+[dados_leitura.xlsx](dados_leitura.xlsx)<br>
+[escola_a.xlsx](escola_a.xlsx)<br>
+[escola_b.xlsx](escola_b.xlsx)<br>
+[escola_c.xlsx](escola_c.xlsx)<br>
+[iris.xlsx](iris.xlsx)<br>
+[menstruacao.csv](menstruacao.csv)<br>
+[mtcarros.csv](mtcarros.csv)<br>
+[psicologia.csv](psicologia.csv)<br>
+[motivacao_dispersao.xlsx](motivacao_dispersao.xlsx)
+
+
+## Código da sala de aula
+
+[Pasta no `google drive` com planilhas google - apenas leitura.](https://drive.google.com/drive/folders/1f5eYvSWZLXj4mxFWKQP3C61H2qljh19m?usp=sharing){target="_blank"}.
+
+## Frequência
+
+**A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**
+
+[Número de faltas por matrícula](https://docs.google.com/spreadsheets/d/1dzWb7a4S2ciBR6eWe2Ot_s0ViTQd7ZTY5R4vXf3SXJc/edit?usp=sharing){target="_blank"}
+
+## Referências
+
+[`R` para ciência de dados](https://r4ds.hadley.nz/){target="_blank"}<br>
+[Estatística aplicada às ciências sociais](estatistica-aplicada-barbetta.pdf){target="_blank"}<br>
+[Estatística básica](estatistica-basica-bussab-morettin.pdf){target="_blank"}<br>
+[Applied statistics and probability for engineers](applied-statistics-montgomery.pdf){target="_blank"}
