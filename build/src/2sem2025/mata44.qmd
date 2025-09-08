@@ -20,7 +20,7 @@ format:
 
 ## Slides
 
-[Primeiro dia de aula](primeiro-dia-mata44.pdf)<br>
+[Primeiro dia de aula](primeiro-dia-mata44.pdf){target="_blank"}<br>
 [Gráficos](graficos.pdf){target="_blank"}<br>
 [Medidas de resumo](medidasResumo.pdf){target="_blank"}<br>
 [Probabilidade](introProb.pdf){target="_blank"}<br>
