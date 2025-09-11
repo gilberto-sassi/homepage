@@ -2,7 +2,7 @@
 title: Métodos Estatísticos 
 author: Gilberto Pereira Sassi
 lang: pt-BR
-date: "2025/08/22"
+date: "2025/09/01"
 date-format: "[Segundo semestre de] YYYY"
 format:
   html:
@@ -75,11 +75,11 @@ format:
 
 [Pasta no `google drive` com planilhas google - apenas leitura.](https://drive.google.com/drive/folders/13_O8FO3-7ZtnOU4D66bV0LGFj2X4cxDd?usp=sharing){target="_blank"}.
 
-## Frequência
+<!-- ## Frequência
 
 **A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**
 
-[Número de faltas por matrícula](https://docs.google.com/spreadsheets/d/1_GA885f6-YdZ7175pI12dBsEdIGPE_2od11ijtHlHGY/edit?usp=sharing){target="_blank"}
+[Número de faltas por matrícula](https://docs.google.com/spreadsheets/d/1_GA885f6-YdZ7175pI12dBsEdIGPE_2od11ijtHlHGY/edit?usp=sharing){target="_blank"} -->
 
 
 ## Referências

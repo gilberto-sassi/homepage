@@ -1,7 +1,7 @@
 ---
 title: Estatística V
 author: Gilberto Pereira Sassi
-date: "2024/08/22"
+date: "2025/09/01"
 date-format: "[Segundo semestre de] YYYY"
 lang: pt-BR
 format:
@@ -75,11 +75,11 @@ format:
 
 [Pasta no `google drive` com planilhas google - apenas leitura.](https://drive.google.com/drive/folders/1f5eYvSWZLXj4mxFWKQP3C61H2qljh19m?usp=sharing){target="_blank"}.
 
-## Frequência
+<!-- ## Frequência
 
 **A partir de oito faltas, a/o estudante está automaticamente reprovada/o no componente curricular segundo o artigo 111 do [Regimento de Graduação e Pós-graduação da UFBA](https://ea.ufba.br/wp-content/uploads/2020/06/UFBA-Regulamento-Ensino-.pdf){target="_blank"}.**
 
-[Número de faltas por matrícula](https://docs.google.com/spreadsheets/d/1dzWb7a4S2ciBR6eWe2Ot_s0ViTQd7ZTY5R4vXf3SXJc/edit?usp=sharing){target="_blank"}
+[Número de faltas por matrícula](https://docs.google.com/spreadsheets/d/1dzWb7a4S2ciBR6eWe2Ot_s0ViTQd7ZTY5R4vXf3SXJc/edit?usp=sharing){target="_blank"} -->
 
 ## Referências
 
